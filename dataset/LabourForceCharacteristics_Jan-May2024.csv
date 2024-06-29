@@ -1,0 +1,1321 @@
+﻿date_month,location,labour_class,age_group,sex,total_count
+2024-01,Canada,Population,15 to 24 years,Males,2475
+2024-01,Canada,Population,25 to 54 years,Males,7923.10009765625
+2024-01,Canada,Population,55 years and over,Males,5986.7001953125
+2024-01,Canada,Population,15 to 24 years,Females,2327.69995117188
+2024-01,Canada,Population,25 to 54 years,Females,7842.39990234375
+2024-01,Canada,Population,55 years and over,Females,6523.39990234375
+2024-01,Canada,Labour force,15 to 24 years,Males,1557.90002441406
+2024-01,Canada,Labour force,25 to 54 years,Males,7279.39990234375
+2024-01,Canada,Labour force,55 years and over,Males,2527.5
+2024-01,Canada,Labour force,15 to 24 years,Females,1454.80004882813
+2024-01,Canada,Labour force,25 to 54 years,Females,6693.5
+2024-01,Canada,Labour force,55 years and over,Females,2073.80004882813
+2024-01,Canada,Employment,15 to 24 years,Males,1386.19995117188
+2024-01,Canada,Employment,25 to 54 years,Males,6908.89990234375
+2024-01,Canada,Employment,55 years and over,Males,2416.80004882813
+2024-01,Canada,Employment,15 to 24 years,Females,1302.59997558594
+2024-01,Canada,Employment,25 to 54 years,Females,6356.2998046875
+2024-01,Canada,Employment,55 years and over,Females,1991.40002441406
+2024-01,Canada,Unemployment,15 to 24 years,Males,171.699996948242
+2024-01,Canada,Unemployment,25 to 54 years,Males,370.5
+2024-01,Canada,Unemployment,55 years and over,Males,110.699996948242
+2024-01,Canada,Unemployment,15 to 24 years,Females,152.199996948242
+2024-01,Canada,Unemployment,25 to 54 years,Females,337.200012207031
+2024-01,Canada,Unemployment,55 years and over,Females,82.4000015258789
+2024-01,Newfoundland and Labrador,Population,15 to 24 years,Males,29.8999996185303
+2024-01,Newfoundland and Labrador,Population,25 to 54 years,Males,93.8000030517578
+2024-01,Newfoundland and Labrador,Population,55 years and over,Males,101.800003051758
+2024-01,Newfoundland and Labrador,Population,15 to 24 years,Females,27.6000003814697
+2024-01,Newfoundland and Labrador,Population,25 to 54 years,Females,96.5999984741211
+2024-01,Newfoundland and Labrador,Population,55 years and over,Females,109.199996948242
+2024-01,Newfoundland and Labrador,Labour force,15 to 24 years,Males,19.1000003814697
+2024-01,Newfoundland and Labrador,Labour force,25 to 54 years,Males,85.3000030517578
+2024-01,Newfoundland and Labrador,Labour force,55 years and over,Males,36.5999984741211
+2024-01,Newfoundland and Labrador,Labour force,15 to 24 years,Females,18
+2024-01,Newfoundland and Labrador,Labour force,25 to 54 years,Females,82.8000030517578
+2024-01,Newfoundland and Labrador,Labour force,55 years and over,Females,31.7999992370605
+2024-01,Newfoundland and Labrador,Employment,15 to 24 years,Males,16.5
+2024-01,Newfoundland and Labrador,Employment,25 to 54 years,Males,77.5
+2024-01,Newfoundland and Labrador,Employment,55 years and over,Males,31.3999996185303
+2024-01,Newfoundland and Labrador,Employment,15 to 24 years,Females,16
+2024-01,Newfoundland and Labrador,Employment,25 to 54 years,Females,76.5
+2024-01,Newfoundland and Labrador,Employment,55 years and over,Females,27.6000003814697
+2024-01,Newfoundland and Labrador,Unemployment,15 to 24 years,Males,2.59999990463257
+2024-01,Newfoundland and Labrador,Unemployment,25 to 54 years,Males,7.80000019073486
+2024-01,Newfoundland and Labrador,Unemployment,55 years and over,Males,5.19999980926514
+2024-01,Newfoundland and Labrador,Unemployment,15 to 24 years,Females,1.89999997615814
+2024-01,Newfoundland and Labrador,Unemployment,25 to 54 years,Females,6.30000019073486
+2024-01,Newfoundland and Labrador,Unemployment,55 years and over,Females,4.30000019073486
+2024-01,Prince Edward Island,Population,15 to 24 years,Males,13
+2024-01,Prince Edward Island,Population,25 to 54 years,Males,33.2999992370605
+2024-01,Prince Edward Island,Population,55 years and over,Males,26.8999996185303
+2024-01,Prince Edward Island,Population,15 to 24 years,Females,11.3000001907349
+2024-01,Prince Edward Island,Population,25 to 54 years,Females,33
+2024-01,Prince Edward Island,Population,55 years and over,Females,30.2000007629395
+2024-01,Prince Edward Island,Labour force,15 to 24 years,Males,10.3999996185303
+2024-01,Prince Edward Island,Labour force,25 to 54 years,Males,30.2000007629395
+2024-01,Prince Edward Island,Labour force,55 years and over,Males,12
+2024-01,Prince Edward Island,Labour force,15 to 24 years,Females,7.30000019073486
+2024-01,Prince Edward Island,Labour force,25 to 54 years,Females,28.2000007629395
+2024-01,Prince Edward Island,Labour force,55 years and over,Females,11.1999998092651
+2024-01,Prince Edward Island,Employment,15 to 24 years,Males,9.19999980926514
+2024-01,Prince Edward Island,Employment,25 to 54 years,Males,28.2000007629395
+2024-01,Prince Edward Island,Employment,55 years and over,Males,11
+2024-01,Prince Edward Island,Employment,15 to 24 years,Females,6.69999980926514
+2024-01,Prince Edward Island,Employment,25 to 54 years,Females,26.7000007629395
+2024-01,Prince Edward Island,Employment,55 years and over,Females,10.3000001907349
+2024-01,Prince Edward Island,Unemployment,15 to 24 years,Males,1.10000002384186
+2024-01,Prince Edward Island,Unemployment,25 to 54 years,Males,2.09999990463257
+2024-01,Prince Edward Island,Unemployment,55 years and over,Males,1.10000002384186
+2024-01,Prince Edward Island,Unemployment,15 to 24 years,Females,0.600000023841858
+2024-01,Prince Edward Island,Unemployment,25 to 54 years,Females,1.5
+2024-01,Prince Edward Island,Unemployment,55 years and over,Females,1
+2024-01,Nova Scotia,Population,15 to 24 years,Males,61.0999984741211
+2024-01,Nova Scotia,Population,25 to 54 years,Males,187.300003051758
+2024-01,Nova Scotia,Population,55 years and over,Males,177.800003051758
+2024-01,Nova Scotia,Population,15 to 24 years,Females,57.7999992370605
+2024-01,Nova Scotia,Population,25 to 54 years,Females,197.899993896484
+2024-01,Nova Scotia,Population,55 years and over,Females,196.399993896484
+2024-01,Nova Scotia,Labour force,15 to 24 years,Males,43.0999984741211
+2024-01,Nova Scotia,Labour force,25 to 54 years,Males,168
+2024-01,Nova Scotia,Labour force,55 years and over,Males,67.9000015258789
+2024-01,Nova Scotia,Labour force,15 to 24 years,Females,39.0999984741211
+2024-01,Nova Scotia,Labour force,25 to 54 years,Females,171.5
+2024-01,Nova Scotia,Labour force,55 years and over,Females,60.4000015258789
+2024-01,Nova Scotia,Employment,15 to 24 years,Males,36.5999984741211
+2024-01,Nova Scotia,Employment,25 to 54 years,Males,158.199996948242
+2024-01,Nova Scotia,Employment,55 years and over,Males,64
+2024-01,Nova Scotia,Employment,15 to 24 years,Females,34.7000007629395
+2024-01,Nova Scotia,Employment,25 to 54 years,Females,161.5
+2024-01,Nova Scotia,Employment,55 years and over,Females,56.5
+2024-01,Nova Scotia,Unemployment,15 to 24 years,Males,6.5
+2024-01,Nova Scotia,Unemployment,25 to 54 years,Males,9.69999980926514
+2024-01,Nova Scotia,Unemployment,55 years and over,Males,3.90000009536743
+2024-01,Nova Scotia,Unemployment,15 to 24 years,Females,4.40000009536743
+2024-01,Nova Scotia,Unemployment,25 to 54 years,Females,10
+2024-01,Nova Scotia,Unemployment,55 years and over,Females,3.79999995231628
+2024-01,New Brunswick,Population,15 to 24 years,Males,46.5
+2024-01,New Brunswick,Population,25 to 54 years,Males,149.800003051758
+2024-01,New Brunswick,Population,55 years and over,Males,146.100006103516
+2024-01,New Brunswick,Population,15 to 24 years,Females,44.4000015258789
+2024-01,New Brunswick,Population,25 to 54 years,Females,150.199996948242
+2024-01,New Brunswick,Population,55 years and over,Females,157.5
+2024-01,New Brunswick,Labour force,15 to 24 years,Males,30.2999992370605
+2024-01,New Brunswick,Labour force,25 to 54 years,Males,134.699996948242
+2024-01,New Brunswick,Labour force,55 years and over,Males,54.4000015258789
+2024-01,New Brunswick,Labour force,15 to 24 years,Females,27.6000003814697
+2024-01,New Brunswick,Labour force,25 to 54 years,Females,128
+2024-01,New Brunswick,Labour force,55 years and over,Females,45
+2024-01,New Brunswick,Employment,15 to 24 years,Males,26.1000003814697
+2024-01,New Brunswick,Employment,25 to 54 years,Males,125.300003051758
+2024-01,New Brunswick,Employment,55 years and over,Males,50
+2024-01,New Brunswick,Employment,15 to 24 years,Females,25.7999992370605
+2024-01,New Brunswick,Employment,25 to 54 years,Females,122.5
+2024-01,New Brunswick,Employment,55 years and over,Females,42.2999992370605
+2024-01,New Brunswick,Unemployment,15 to 24 years,Males,4.19999980926514
+2024-01,New Brunswick,Unemployment,25 to 54 years,Males,9.30000019073486
+2024-01,New Brunswick,Unemployment,55 years and over,Males,4.40000009536743
+2024-01,New Brunswick,Unemployment,15 to 24 years,Females,1.79999995231628
+2024-01,New Brunswick,Unemployment,25 to 54 years,Females,5.5
+2024-01,New Brunswick,Unemployment,55 years and over,Females,2.70000004768372
+2024-01,Quebec,Population,15 to 24 years,Males,491.299987792969
+2024-01,Quebec,Population,25 to 54 years,Males,1720.30004882813
+2024-01,Quebec,Population,55 years and over,Males,1460.09997558594
+2024-01,Quebec,Population,15 to 24 years,Females,464.5
+2024-01,Quebec,Population,25 to 54 years,Females,1655.09997558594
+2024-01,Quebec,Population,55 years and over,Females,1551.5
+2024-01,Quebec,Labour force,15 to 24 years,Males,327.799987792969
+2024-01,Quebec,Labour force,25 to 54 years,Males,1565.59997558594
+2024-01,Quebec,Labour force,55 years and over,Males,586.900024414063
+2024-01,Quebec,Labour force,15 to 24 years,Females,336.5
+2024-01,Quebec,Labour force,25 to 54 years,Females,1458.30004882813
+2024-01,Quebec,Labour force,55 years and over,Females,460.5
+2024-01,Quebec,Employment,15 to 24 years,Males,302.299987792969
+2024-01,Quebec,Employment,25 to 54 years,Males,1499.80004882813
+2024-01,Quebec,Employment,55 years and over,Males,566.299987792969
+2024-01,Quebec,Employment,15 to 24 years,Females,310.399993896484
+2024-01,Quebec,Employment,25 to 54 years,Females,1398.19995117188
+2024-01,Quebec,Employment,55 years and over,Females,447.399993896484
+2024-01,Quebec,Unemployment,15 to 24 years,Males,25.5
+2024-01,Quebec,Unemployment,25 to 54 years,Males,65.6999969482422
+2024-01,Quebec,Unemployment,55 years and over,Males,20.6000003814697
+2024-01,Quebec,Unemployment,15 to 24 years,Females,26.1000003814697
+2024-01,Quebec,Unemployment,25 to 54 years,Females,60.0999984741211
+2024-01,Quebec,Unemployment,55 years and over,Females,13.1000003814697
+2024-01,Ontario,Population,15 to 24 years,Males,1037.90002441406
+2024-01,Ontario,Population,25 to 54 years,Males,3120.30004882813
+2024-01,Ontario,Population,55 years and over,Males,2283.5
+2024-01,Ontario,Population,15 to 24 years,Females,965.799987792969
+2024-01,Ontario,Population,25 to 54 years,Females,3121.5
+2024-01,Ontario,Population,55 years and over,Females,2533.19995117188
+2024-01,Ontario,Labour force,15 to 24 years,Males,606.599975585938
+2024-01,Ontario,Labour force,25 to 54 years,Males,2855.30004882813
+2024-01,Ontario,Labour force,55 years and over,Males,998.299987792969
+2024-01,Ontario,Labour force,15 to 24 years,Females,548.299987792969
+2024-01,Ontario,Labour force,25 to 54 years,Females,2630.10009765625
+2024-01,Ontario,Labour force,55 years and over,Females,821.5
+2024-01,Ontario,Employment,15 to 24 years,Males,527.099975585938
+2024-01,Ontario,Employment,25 to 54 years,Males,2696.39990234375
+2024-01,Ontario,Employment,55 years and over,Males,956.099975585938
+2024-01,Ontario,Employment,15 to 24 years,Females,484.100006103516
+2024-01,Ontario,Employment,25 to 54 years,Females,2485.39990234375
+2024-01,Ontario,Employment,55 years and over,Females,788.700012207031
+2024-01,Ontario,Unemployment,15 to 24 years,Males,79.5
+2024-01,Ontario,Unemployment,25 to 54 years,Males,158.899993896484
+2024-01,Ontario,Unemployment,55 years and over,Males,42.2000007629395
+2024-01,Ontario,Unemployment,15 to 24 years,Females,64.1999969482422
+2024-01,Ontario,Unemployment,25 to 54 years,Females,144.600006103516
+2024-01,Ontario,Unemployment,55 years and over,Females,32.9000015258789
+2024-01,Manitoba,Population,15 to 24 years,Males,92.5999984741211
+2024-01,Manitoba,Population,25 to 54 years,Males,272.100006103516
+2024-01,Manitoba,Population,55 years and over,Males,186.699996948242
+2024-01,Manitoba,Population,15 to 24 years,Females,86.4000015258789
+2024-01,Manitoba,Population,25 to 54 years,Females,267.5
+2024-01,Manitoba,Population,55 years and over,Females,202.899993896484
+2024-01,Manitoba,Labour force,15 to 24 years,Males,64.6999969482422
+2024-01,Manitoba,Labour force,25 to 54 years,Males,253
+2024-01,Manitoba,Labour force,55 years and over,Males,73.5
+2024-01,Manitoba,Labour force,15 to 24 years,Females,55
+2024-01,Manitoba,Labour force,25 to 54 years,Females,228.199996948242
+2024-01,Manitoba,Labour force,55 years and over,Females,65.5
+2024-01,Manitoba,Employment,15 to 24 years,Males,59.7999992370605
+2024-01,Manitoba,Employment,25 to 54 years,Males,245.100006103516
+2024-01,Manitoba,Employment,55 years and over,Males,70.4000015258789
+2024-01,Manitoba,Employment,15 to 24 years,Females,50.2000007629395
+2024-01,Manitoba,Employment,25 to 54 years,Females,219.899993896484
+2024-01,Manitoba,Employment,55 years and over,Females,64.5999984741211
+2024-01,Manitoba,Unemployment,15 to 24 years,Males,4.90000009536743
+2024-01,Manitoba,Unemployment,25 to 54 years,Males,7.90000009536743
+2024-01,Manitoba,Unemployment,55 years and over,Males,3
+2024-01,Manitoba,Unemployment,15 to 24 years,Females,4.69999980926514
+2024-01,Manitoba,Unemployment,25 to 54 years,Females,8.39999961853027
+2024-01,Manitoba,Unemployment,55 years and over,Females,0.899999976158142
+2024-01,Saskatchewan,Population,15 to 24 years,Males,75.1999969482422
+2024-01,Saskatchewan,Population,25 to 54 years,Males,233.399993896484
+2024-01,Saskatchewan,Population,55 years and over,Males,164.600006103516
+2024-01,Saskatchewan,Population,15 to 24 years,Females,69.3000030517578
+2024-01,Saskatchewan,Population,25 to 54 years,Females,224.699996948242
+2024-01,Saskatchewan,Population,55 years and over,Females,171.600006103516
+2024-01,Saskatchewan,Labour force,15 to 24 years,Males,44.7000007629395
+2024-01,Saskatchewan,Labour force,25 to 54 years,Males,219.899993896484
+2024-01,Saskatchewan,Labour force,55 years and over,Males,74.5
+2024-01,Saskatchewan,Labour force,15 to 24 years,Females,41.5
+2024-01,Saskatchewan,Labour force,25 to 54 years,Females,194.100006103516
+2024-01,Saskatchewan,Labour force,55 years and over,Females,55.9000015258789
+2024-01,Saskatchewan,Employment,15 to 24 years,Males,39.9000015258789
+2024-01,Saskatchewan,Employment,25 to 54 years,Males,211
+2024-01,Saskatchewan,Employment,55 years and over,Males,70.9000015258789
+2024-01,Saskatchewan,Employment,15 to 24 years,Females,38
+2024-01,Saskatchewan,Employment,25 to 54 years,Females,186.800003051758
+2024-01,Saskatchewan,Employment,55 years and over,Females,54.2999992370605
+2024-01,Saskatchewan,Unemployment,15 to 24 years,Males,4.80000019073486
+2024-01,Saskatchewan,Unemployment,25 to 54 years,Males,9
+2024-01,Saskatchewan,Unemployment,55 years and over,Males,3.59999990463257
+2024-01,Saskatchewan,Unemployment,15 to 24 years,Females,3.5
+2024-01,Saskatchewan,Unemployment,25 to 54 years,Females,7.30000019073486
+2024-01,Saskatchewan,Unemployment,55 years and over,Females,1.60000002384186
+2024-01,Alberta,Population,15 to 24 years,Males,299.100006103516
+2024-01,Alberta,Population,25 to 54 years,Males,1028.30004882813
+2024-01,Alberta,Population,55 years and over,Males,598.299987792969
+2024-01,Alberta,Population,15 to 24 years,Females,284.200012207031
+2024-01,Alberta,Population,25 to 54 years,Females,1001.20001220703
+2024-01,Alberta,Population,55 years and over,Females,641.5
+2024-01,Alberta,Labour force,15 to 24 years,Males,191.100006103516
+2024-01,Alberta,Labour force,25 to 54 years,Males,963.299987792969
+2024-01,Alberta,Labour force,55 years and over,Males,282.600006103516
+2024-01,Alberta,Labour force,15 to 24 years,Females,184.300003051758
+2024-01,Alberta,Labour force,25 to 54 years,Females,835.400024414063
+2024-01,Alberta,Labour force,55 years and over,Females,223.5
+2024-01,Alberta,Employment,15 to 24 years,Males,163.199996948242
+2024-01,Alberta,Employment,25 to 54 years,Males,914.900024414063
+2024-01,Alberta,Employment,55 years and over,Males,269.200012207031
+2024-01,Alberta,Employment,15 to 24 years,Females,155.800003051758
+2024-01,Alberta,Employment,25 to 54 years,Females,797.700012207031
+2024-01,Alberta,Employment,55 years and over,Females,211.899993896484
+2024-01,Alberta,Unemployment,15 to 24 years,Males,27.7999992370605
+2024-01,Alberta,Unemployment,25 to 54 years,Males,48.4000015258789
+2024-01,Alberta,Unemployment,55 years and over,Males,13.3999996185303
+2024-01,Alberta,Unemployment,15 to 24 years,Females,28.5
+2024-01,Alberta,Unemployment,25 to 54 years,Females,37.7000007629395
+2024-01,Alberta,Unemployment,55 years and over,Females,11.6000003814697
+2024-01,British Columbia,Population,15 to 24 years,Males,328.299987792969
+2024-01,British Columbia,Population,25 to 54 years,Males,1084.40002441406
+2024-01,British Columbia,Population,55 years and over,Males,840.900024414063
+2024-01,British Columbia,Population,15 to 24 years,Females,316.399993896484
+2024-01,British Columbia,Population,25 to 54 years,Females,1094.69995117188
+2024-01,British Columbia,Population,55 years and over,Females,929.400024414063
+2024-01,British Columbia,Labour force,15 to 24 years,Males,220.100006103516
+2024-01,British Columbia,Labour force,25 to 54 years,Males,1004.09997558594
+2024-01,British Columbia,Labour force,55 years and over,Males,340.899993896484
+2024-01,British Columbia,Labour force,15 to 24 years,Females,197.199996948242
+2024-01,British Columbia,Labour force,25 to 54 years,Females,936.900024414063
+2024-01,British Columbia,Labour force,55 years and over,Females,298.5
+2024-01,British Columbia,Employment,15 to 24 years,Males,205.5
+2024-01,British Columbia,Employment,25 to 54 years,Males,952.5
+2024-01,British Columbia,Employment,55 years and over,Males,327.600006103516
+2024-01,British Columbia,Employment,15 to 24 years,Females,180.800003051758
+2024-01,British Columbia,Employment,25 to 54 years,Females,881
+2024-01,British Columbia,Employment,55 years and over,Females,288
+2024-01,British Columbia,Unemployment,15 to 24 years,Males,14.6000003814697
+2024-01,British Columbia,Unemployment,25 to 54 years,Males,51.5999984741211
+2024-01,British Columbia,Unemployment,55 years and over,Males,13.3000001907349
+2024-01,British Columbia,Unemployment,15 to 24 years,Females,16.3999996185303
+2024-01,British Columbia,Unemployment,25 to 54 years,Females,56
+2024-01,British Columbia,Unemployment,55 years and over,Females,10.5
+2024-02,Canada,Population,15 to 24 years,Males,2488.60009765625
+2024-02,Canada,Population,25 to 54 years,Males,7947.60009765625
+2024-02,Canada,Population,55 years and over,Males,5993.5
+2024-02,Canada,Population,15 to 24 years,Females,2339.5
+2024-02,Canada,Population,25 to 54 years,Females,7861.60009765625
+2024-02,Canada,Population,55 years and over,Females,6531
+2024-02,Canada,Labour force,15 to 24 years,Males,1583.59997558594
+2024-02,Canada,Labour force,25 to 54 years,Males,7319.60009765625
+2024-02,Canada,Labour force,55 years and over,Males,2522.60009765625
+2024-02,Canada,Labour force,15 to 24 years,Females,1470.5
+2024-02,Canada,Labour force,25 to 54 years,Females,6711.7998046875
+2024-02,Canada,Labour force,55 years and over,Females,2055.30004882813
+2024-02,Canada,Employment,15 to 24 years,Males,1392.69995117188
+2024-02,Canada,Employment,25 to 54 years,Males,6932.2001953125
+2024-02,Canada,Employment,55 years and over,Males,2407.10009765625
+2024-02,Canada,Employment,15 to 24 years,Females,1307.5
+2024-02,Canada,Employment,25 to 54 years,Females,6400.89990234375
+2024-02,Canada,Employment,55 years and over,Females,1962.59997558594
+2024-02,Canada,Unemployment,15 to 24 years,Males,190.800003051758
+2024-02,Canada,Unemployment,25 to 54 years,Males,387.399993896484
+2024-02,Canada,Unemployment,55 years and over,Males,115.5
+2024-02,Canada,Unemployment,15 to 24 years,Females,163
+2024-02,Canada,Unemployment,25 to 54 years,Females,310.899993896484
+2024-02,Canada,Unemployment,55 years and over,Females,92.6999969482422
+2024-02,Newfoundland and Labrador,Population,15 to 24 years,Males,30
+2024-02,Newfoundland and Labrador,Population,25 to 54 years,Males,93.9000015258789
+2024-02,Newfoundland and Labrador,Population,55 years and over,Males,101.900001525879
+2024-02,Newfoundland and Labrador,Population,15 to 24 years,Females,27.7000007629395
+2024-02,Newfoundland and Labrador,Population,25 to 54 years,Females,96.5999984741211
+2024-02,Newfoundland and Labrador,Population,55 years and over,Females,109.300003051758
+2024-02,Newfoundland and Labrador,Labour force,15 to 24 years,Males,18.8999996185303
+2024-02,Newfoundland and Labrador,Labour force,25 to 54 years,Males,85.9000015258789
+2024-02,Newfoundland and Labrador,Labour force,55 years and over,Males,35.7000007629395
+2024-02,Newfoundland and Labrador,Labour force,15 to 24 years,Females,17.8999996185303
+2024-02,Newfoundland and Labrador,Labour force,25 to 54 years,Females,82.6999969482422
+2024-02,Newfoundland and Labrador,Labour force,55 years and over,Females,30.3999996185303
+2024-02,Newfoundland and Labrador,Employment,15 to 24 years,Males,15.8999996185303
+2024-02,Newfoundland and Labrador,Employment,25 to 54 years,Males,77.8000030517578
+2024-02,Newfoundland and Labrador,Employment,55 years and over,Males,30.6000003814697
+2024-02,Newfoundland and Labrador,Employment,15 to 24 years,Females,15.6000003814697
+2024-02,Newfoundland and Labrador,Employment,25 to 54 years,Females,77.9000015258789
+2024-02,Newfoundland and Labrador,Employment,55 years and over,Females,25.8999996185303
+2024-02,Newfoundland and Labrador,Unemployment,15 to 24 years,Males,3
+2024-02,Newfoundland and Labrador,Unemployment,25 to 54 years,Males,8
+2024-02,Newfoundland and Labrador,Unemployment,55 years and over,Males,5.09999990463257
+2024-02,Newfoundland and Labrador,Unemployment,15 to 24 years,Females,2.29999995231628
+2024-02,Newfoundland and Labrador,Unemployment,25 to 54 years,Females,4.80000019073486
+2024-02,Newfoundland and Labrador,Unemployment,55 years and over,Females,4.5
+2024-02,Prince Edward Island,Population,15 to 24 years,Males,13.1000003814697
+2024-02,Prince Edward Island,Population,25 to 54 years,Males,33.5
+2024-02,Prince Edward Island,Population,55 years and over,Males,27
+2024-02,Prince Edward Island,Population,15 to 24 years,Females,11.3999996185303
+2024-02,Prince Edward Island,Population,25 to 54 years,Females,33.0999984741211
+2024-02,Prince Edward Island,Population,55 years and over,Females,30.2000007629395
+2024-02,Prince Edward Island,Labour force,15 to 24 years,Males,9.69999980926514
+2024-02,Prince Edward Island,Labour force,25 to 54 years,Males,30.6000003814697
+2024-02,Prince Edward Island,Labour force,55 years and over,Males,12.3000001907349
+2024-02,Prince Edward Island,Labour force,15 to 24 years,Females,7.40000009536743
+2024-02,Prince Edward Island,Labour force,25 to 54 years,Females,27.8999996185303
+2024-02,Prince Edward Island,Labour force,55 years and over,Females,11
+2024-02,Prince Edward Island,Employment,15 to 24 years,Males,8.80000019073486
+2024-02,Prince Edward Island,Employment,25 to 54 years,Males,28.3999996185303
+2024-02,Prince Edward Island,Employment,55 years and over,Males,11.1000003814697
+2024-02,Prince Edward Island,Employment,15 to 24 years,Females,6.69999980926514
+2024-02,Prince Edward Island,Employment,25 to 54 years,Females,26.8999996185303
+2024-02,Prince Edward Island,Employment,55 years and over,Females,10.1000003814697
+2024-02,Prince Edward Island,Unemployment,15 to 24 years,Males,0.899999976158142
+2024-02,Prince Edward Island,Unemployment,25 to 54 years,Males,2.20000004768372
+2024-02,Prince Edward Island,Unemployment,55 years and over,Males,1.20000004768372
+2024-02,Prince Edward Island,Unemployment,15 to 24 years,Females,0.699999988079071
+2024-02,Prince Edward Island,Unemployment,25 to 54 years,Females,1
+2024-02,Prince Edward Island,Unemployment,55 years and over,Females,0.899999976158142
+2024-02,Nova Scotia,Population,15 to 24 years,Males,61.5
+2024-02,Nova Scotia,Population,25 to 54 years,Males,188.100006103516
+2024-02,Nova Scotia,Population,55 years and over,Males,177.899993896484
+2024-02,Nova Scotia,Population,15 to 24 years,Females,58.0999984741211
+2024-02,Nova Scotia,Population,25 to 54 years,Females,198.5
+2024-02,Nova Scotia,Population,55 years and over,Females,196.600006103516
+2024-02,Nova Scotia,Labour force,15 to 24 years,Males,43.0999984741211
+2024-02,Nova Scotia,Labour force,25 to 54 years,Males,168.800003051758
+2024-02,Nova Scotia,Labour force,55 years and over,Males,67.5999984741211
+2024-02,Nova Scotia,Labour force,15 to 24 years,Females,37.5999984741211
+2024-02,Nova Scotia,Labour force,25 to 54 years,Females,173.399993896484
+2024-02,Nova Scotia,Labour force,55 years and over,Females,60.5999984741211
+2024-02,Nova Scotia,Employment,15 to 24 years,Males,38.0999984741211
+2024-02,Nova Scotia,Employment,25 to 54 years,Males,159.399993896484
+2024-02,Nova Scotia,Employment,55 years and over,Males,63.9000015258789
+2024-02,Nova Scotia,Employment,15 to 24 years,Females,35.2000007629395
+2024-02,Nova Scotia,Employment,25 to 54 years,Females,163.800003051758
+2024-02,Nova Scotia,Employment,55 years and over,Females,57.5
+2024-02,Nova Scotia,Unemployment,15 to 24 years,Males,5
+2024-02,Nova Scotia,Unemployment,25 to 54 years,Males,9.39999961853027
+2024-02,Nova Scotia,Unemployment,55 years and over,Males,3.70000004768372
+2024-02,Nova Scotia,Unemployment,15 to 24 years,Females,2.40000009536743
+2024-02,Nova Scotia,Unemployment,25 to 54 years,Females,9.69999980926514
+2024-02,Nova Scotia,Unemployment,55 years and over,Females,3.09999990463257
+2024-02,New Brunswick,Population,15 to 24 years,Males,46.7999992370605
+2024-02,New Brunswick,Population,25 to 54 years,Males,150.5
+2024-02,New Brunswick,Population,55 years and over,Males,146.300003051758
+2024-02,New Brunswick,Population,15 to 24 years,Females,44.7000007629395
+2024-02,New Brunswick,Population,25 to 54 years,Females,150.699996948242
+2024-02,New Brunswick,Population,55 years and over,Females,157.600006103516
+2024-02,New Brunswick,Labour force,15 to 24 years,Males,30
+2024-02,New Brunswick,Labour force,25 to 54 years,Males,135.600006103516
+2024-02,New Brunswick,Labour force,55 years and over,Males,54.2999992370605
+2024-02,New Brunswick,Labour force,15 to 24 years,Females,28.5
+2024-02,New Brunswick,Labour force,25 to 54 years,Females,129.399993896484
+2024-02,New Brunswick,Labour force,55 years and over,Females,44
+2024-02,New Brunswick,Employment,15 to 24 years,Males,26.2999992370605
+2024-02,New Brunswick,Employment,25 to 54 years,Males,126.400001525879
+2024-02,New Brunswick,Employment,55 years and over,Males,49.0999984741211
+2024-02,New Brunswick,Employment,15 to 24 years,Females,25.2000007629395
+2024-02,New Brunswick,Employment,25 to 54 years,Females,124.400001525879
+2024-02,New Brunswick,Employment,55 years and over,Females,41.2000007629395
+2024-02,New Brunswick,Unemployment,15 to 24 years,Males,3.70000004768372
+2024-02,New Brunswick,Unemployment,25 to 54 years,Males,9.19999980926514
+2024-02,New Brunswick,Unemployment,55 years and over,Males,5.19999980926514
+2024-02,New Brunswick,Unemployment,15 to 24 years,Females,3.40000009536743
+2024-02,New Brunswick,Unemployment,25 to 54 years,Females,5
+2024-02,New Brunswick,Unemployment,55 years and over,Females,2.90000009536743
+2024-02,Quebec,Population,15 to 24 years,Males,493.299987792969
+2024-02,Quebec,Population,25 to 54 years,Males,1723.80004882813
+2024-02,Quebec,Population,55 years and over,Males,1461.5
+2024-02,Quebec,Population,15 to 24 years,Females,466.200012207031
+2024-02,Quebec,Population,25 to 54 years,Females,1657.30004882813
+2024-02,Quebec,Population,55 years and over,Females,1552.69995117188
+2024-02,Quebec,Labour force,15 to 24 years,Males,341.399993896484
+2024-02,Quebec,Labour force,25 to 54 years,Males,1580.90002441406
+2024-02,Quebec,Labour force,55 years and over,Males,594.5
+2024-02,Quebec,Labour force,15 to 24 years,Females,328.200012207031
+2024-02,Quebec,Labour force,25 to 54 years,Females,1457.80004882813
+2024-02,Quebec,Labour force,55 years and over,Females,453.600006103516
+2024-02,Quebec,Employment,15 to 24 years,Males,315.100006103516
+2024-02,Quebec,Employment,25 to 54 years,Males,1501.59997558594
+2024-02,Quebec,Employment,55 years and over,Males,569.400024414063
+2024-02,Quebec,Employment,15 to 24 years,Females,302.100006103516
+2024-02,Quebec,Employment,25 to 54 years,Females,1408
+2024-02,Quebec,Employment,55 years and over,Females,437
+2024-02,Quebec,Unemployment,15 to 24 years,Males,26.2999992370605
+2024-02,Quebec,Unemployment,25 to 54 years,Males,79.3000030517578
+2024-02,Quebec,Unemployment,55 years and over,Males,25.1000003814697
+2024-02,Quebec,Unemployment,15 to 24 years,Females,26.1000003814697
+2024-02,Quebec,Unemployment,25 to 54 years,Females,49.7999992370605
+2024-02,Quebec,Unemployment,55 years and over,Females,16.6000003814697
+2024-02,Ontario,Population,15 to 24 years,Males,1044.59997558594
+2024-02,Ontario,Population,25 to 54 years,Males,3131.5
+2024-02,Ontario,Population,55 years and over,Males,2286.19995117188
+2024-02,Ontario,Population,15 to 24 years,Females,971.400024414063
+2024-02,Ontario,Population,25 to 54 years,Females,3130.39990234375
+2024-02,Ontario,Population,55 years and over,Females,2536.19995117188
+2024-02,Ontario,Labour force,15 to 24 years,Males,617.400024414063
+2024-02,Ontario,Labour force,25 to 54 years,Males,2881.60009765625
+2024-02,Ontario,Labour force,55 years and over,Males,983.400024414063
+2024-02,Ontario,Labour force,15 to 24 years,Females,559.599975585938
+2024-02,Ontario,Labour force,25 to 54 years,Females,2639.60009765625
+2024-02,Ontario,Labour force,55 years and over,Females,816.799987792969
+2024-02,Ontario,Employment,15 to 24 years,Males,526.5
+2024-02,Ontario,Employment,25 to 54 years,Males,2712.80004882813
+2024-02,Ontario,Employment,55 years and over,Males,939.799987792969
+2024-02,Ontario,Employment,15 to 24 years,Females,484.299987792969
+2024-02,Ontario,Employment,25 to 54 years,Females,2497.39990234375
+2024-02,Ontario,Employment,55 years and over,Females,783.700012207031
+2024-02,Ontario,Unemployment,15 to 24 years,Males,90.8000030517578
+2024-02,Ontario,Unemployment,25 to 54 years,Males,168.800003051758
+2024-02,Ontario,Unemployment,55 years and over,Males,43.5999984741211
+2024-02,Ontario,Unemployment,15 to 24 years,Females,75.4000015258789
+2024-02,Ontario,Unemployment,25 to 54 years,Females,142.199996948242
+2024-02,Ontario,Unemployment,55 years and over,Females,33.0999984741211
+2024-02,Manitoba,Population,15 to 24 years,Males,93.1999969482422
+2024-02,Manitoba,Population,25 to 54 years,Males,273.100006103516
+2024-02,Manitoba,Population,55 years and over,Males,186.800003051758
+2024-02,Manitoba,Population,15 to 24 years,Females,86.8000030517578
+2024-02,Manitoba,Population,25 to 54 years,Females,268.200012207031
+2024-02,Manitoba,Population,55 years and over,Females,203
+2024-02,Manitoba,Labour force,15 to 24 years,Males,64.5999984741211
+2024-02,Manitoba,Labour force,25 to 54 years,Males,253.300003051758
+2024-02,Manitoba,Labour force,55 years and over,Males,72.3000030517578
+2024-02,Manitoba,Labour force,15 to 24 years,Females,56.7000007629395
+2024-02,Manitoba,Labour force,25 to 54 years,Females,225.800003051758
+2024-02,Manitoba,Labour force,55 years and over,Females,64.9000015258789
+2024-02,Manitoba,Employment,15 to 24 years,Males,58.2999992370605
+2024-02,Manitoba,Employment,25 to 54 years,Males,243.300003051758
+2024-02,Manitoba,Employment,55 years and over,Males,69.5
+2024-02,Manitoba,Employment,15 to 24 years,Females,51.5999984741211
+2024-02,Manitoba,Employment,25 to 54 years,Females,220.199996948242
+2024-02,Manitoba,Employment,55 years and over,Females,61.7000007629395
+2024-02,Manitoba,Unemployment,15 to 24 years,Males,6.30000019073486
+2024-02,Manitoba,Unemployment,25 to 54 years,Males,10
+2024-02,Manitoba,Unemployment,55 years and over,Males,2.79999995231628
+2024-02,Manitoba,Unemployment,15 to 24 years,Females,5
+2024-02,Manitoba,Unemployment,25 to 54 years,Females,5.59999990463257
+2024-02,Manitoba,Unemployment,55 years and over,Females,3.20000004768372
+2024-02,Saskatchewan,Population,15 to 24 years,Males,75.5
+2024-02,Saskatchewan,Population,25 to 54 years,Males,234
+2024-02,Saskatchewan,Population,55 years and over,Males,164.699996948242
+2024-02,Saskatchewan,Population,15 to 24 years,Females,69.5999984741211
+2024-02,Saskatchewan,Population,25 to 54 years,Females,225.199996948242
+2024-02,Saskatchewan,Population,55 years and over,Females,171.699996948242
+2024-02,Saskatchewan,Labour force,15 to 24 years,Males,47.9000015258789
+2024-02,Saskatchewan,Labour force,25 to 54 years,Males,218.399993896484
+2024-02,Saskatchewan,Labour force,55 years and over,Males,74.5999984741211
+2024-02,Saskatchewan,Labour force,15 to 24 years,Females,44.2000007629395
+2024-02,Saskatchewan,Labour force,25 to 54 years,Females,193.399993896484
+2024-02,Saskatchewan,Labour force,55 years and over,Females,56.2999992370605
+2024-02,Saskatchewan,Employment,15 to 24 years,Males,41.4000015258789
+2024-02,Saskatchewan,Employment,25 to 54 years,Males,209.899993896484
+2024-02,Saskatchewan,Employment,55 years and over,Males,72.0999984741211
+2024-02,Saskatchewan,Employment,15 to 24 years,Females,40.2000007629395
+2024-02,Saskatchewan,Employment,25 to 54 years,Females,185.399993896484
+2024-02,Saskatchewan,Employment,55 years and over,Females,54.0999984741211
+2024-02,Saskatchewan,Unemployment,15 to 24 years,Males,6.5
+2024-02,Saskatchewan,Unemployment,25 to 54 years,Males,8.5
+2024-02,Saskatchewan,Unemployment,55 years and over,Males,2.5
+2024-02,Saskatchewan,Unemployment,15 to 24 years,Females,4
+2024-02,Saskatchewan,Unemployment,25 to 54 years,Females,8
+2024-02,Saskatchewan,Unemployment,55 years and over,Females,2.20000004768372
+2024-02,Alberta,Population,15 to 24 years,Males,300.5
+2024-02,Alberta,Population,25 to 54 years,Males,1031.69995117188
+2024-02,Alberta,Population,55 years and over,Males,599.5
+2024-02,Alberta,Population,15 to 24 years,Females,285.5
+2024-02,Alberta,Population,25 to 54 years,Females,1004.20001220703
+2024-02,Alberta,Population,55 years and over,Females,642.799987792969
+2024-02,Alberta,Labour force,15 to 24 years,Males,196.100006103516
+2024-02,Alberta,Labour force,25 to 54 years,Males,961.700012207031
+2024-02,Alberta,Labour force,55 years and over,Males,281.5
+2024-02,Alberta,Labour force,15 to 24 years,Females,186.899993896484
+2024-02,Alberta,Labour force,25 to 54 years,Females,848.200012207031
+2024-02,Alberta,Labour force,55 years and over,Females,222.399993896484
+2024-02,Alberta,Employment,15 to 24 years,Males,165
+2024-02,Alberta,Employment,25 to 54 years,Males,917
+2024-02,Alberta,Employment,55 years and over,Males,266.700012207031
+2024-02,Alberta,Employment,15 to 24 years,Females,160.800003051758
+2024-02,Alberta,Employment,25 to 54 years,Females,811
+2024-02,Alberta,Employment,55 years and over,Females,209.699996948242
+2024-02,Alberta,Unemployment,15 to 24 years,Males,31.1000003814697
+2024-02,Alberta,Unemployment,25 to 54 years,Males,44.7000007629395
+2024-02,Alberta,Unemployment,55 years and over,Males,14.6999998092651
+2024-02,Alberta,Unemployment,15 to 24 years,Females,26.1000003814697
+2024-02,Alberta,Unemployment,25 to 54 years,Females,37.2000007629395
+2024-02,Alberta,Unemployment,55 years and over,Females,12.8000001907349
+2024-02,British Columbia,Population,15 to 24 years,Males,330.200012207031
+2024-02,British Columbia,Population,25 to 54 years,Males,1087.59997558594
+2024-02,British Columbia,Population,55 years and over,Males,841.900024414063
+2024-02,British Columbia,Population,15 to 24 years,Females,318.200012207031
+2024-02,British Columbia,Population,25 to 54 years,Females,1097.30004882813
+2024-02,British Columbia,Population,55 years and over,Females,930.799987792969
+2024-02,British Columbia,Labour force,15 to 24 years,Males,214.600006103516
+2024-02,British Columbia,Labour force,25 to 54 years,Males,1002.79998779297
+2024-02,British Columbia,Labour force,55 years and over,Males,346.299987792969
+2024-02,British Columbia,Labour force,15 to 24 years,Females,203.600006103516
+2024-02,British Columbia,Labour force,25 to 54 years,Females,933.5
+2024-02,British Columbia,Labour force,55 years and over,Females,295.299987792969
+2024-02,British Columbia,Employment,15 to 24 years,Males,197.399993896484
+2024-02,British Columbia,Employment,25 to 54 years,Males,955.599975585938
+2024-02,British Columbia,Employment,55 years and over,Males,334.799987792969
+2024-02,British Columbia,Employment,15 to 24 years,Females,185.899993896484
+2024-02,British Columbia,Employment,25 to 54 years,Females,885.799987792969
+2024-02,British Columbia,Employment,55 years and over,Females,281.799987792969
+2024-02,British Columbia,Unemployment,15 to 24 years,Males,17.2000007629395
+2024-02,British Columbia,Unemployment,25 to 54 years,Males,47.2999992370605
+2024-02,British Columbia,Unemployment,55 years and over,Males,11.5
+2024-02,British Columbia,Unemployment,15 to 24 years,Females,17.6000003814697
+2024-02,British Columbia,Unemployment,25 to 54 years,Females,47.7000007629395
+2024-02,British Columbia,Unemployment,55 years and over,Females,13.5
+2024-03,Canada,Population,15 to 24 years,Males,2503.89990234375
+2024-03,Canada,Population,25 to 54 years,Males,7974.2001953125
+2024-03,Canada,Population,55 years and over,Males,6000.7001953125
+2024-03,Canada,Population,15 to 24 years,Females,2352.5
+2024-03,Canada,Population,25 to 54 years,Females,7882.60009765625
+2024-03,Canada,Population,55 years and over,Females,6538.60009765625
+2024-03,Canada,Labour force,15 to 24 years,Males,1578.90002441406
+2024-03,Canada,Labour force,25 to 54 years,Males,7357
+2024-03,Canada,Labour force,55 years and over,Males,2523.10009765625
+2024-03,Canada,Labour force,15 to 24 years,Females,1478.30004882813
+2024-03,Canada,Labour force,25 to 54 years,Females,6731.2001953125
+2024-03,Canada,Labour force,55 years and over,Females,2052.5
+2024-03,Canada,Employment,15 to 24 years,Males,1367.40002441406
+2024-03,Canada,Employment,25 to 54 years,Males,6952.10009765625
+2024-03,Canada,Employment,55 years and over,Males,2400.10009765625
+2024-03,Canada,Employment,15 to 24 years,Females,1305.30004882813
+2024-03,Canada,Employment,25 to 54 years,Females,6406.60009765625
+2024-03,Canada,Employment,55 years and over,Females,1969.09997558594
+2024-03,Canada,Unemployment,15 to 24 years,Males,211.5
+2024-03,Canada,Unemployment,25 to 54 years,Males,404.799987792969
+2024-03,Canada,Unemployment,55 years and over,Males,123
+2024-03,Canada,Unemployment,15 to 24 years,Females,173
+2024-03,Canada,Unemployment,25 to 54 years,Females,324.5
+2024-03,Canada,Unemployment,55 years and over,Females,83.4000015258789
+2024-03,Newfoundland and Labrador,Population,15 to 24 years,Males,30.1000003814697
+2024-03,Newfoundland and Labrador,Population,25 to 54 years,Males,94
+2024-03,Newfoundland and Labrador,Population,55 years and over,Males,101.900001525879
+2024-03,Newfoundland and Labrador,Population,15 to 24 years,Females,27.7000007629395
+2024-03,Newfoundland and Labrador,Population,25 to 54 years,Females,96.6999969482422
+2024-03,Newfoundland and Labrador,Population,55 years and over,Females,109.400001525879
+2024-03,Newfoundland and Labrador,Labour force,15 to 24 years,Males,18.5
+2024-03,Newfoundland and Labrador,Labour force,25 to 54 years,Males,84.6999969482422
+2024-03,Newfoundland and Labrador,Labour force,55 years and over,Males,36.2999992370605
+2024-03,Newfoundland and Labrador,Labour force,15 to 24 years,Females,18.3999996185303
+2024-03,Newfoundland and Labrador,Labour force,25 to 54 years,Females,82.9000015258789
+2024-03,Newfoundland and Labrador,Labour force,55 years and over,Females,30.2999992370605
+2024-03,Newfoundland and Labrador,Employment,15 to 24 years,Males,14.8999996185303
+2024-03,Newfoundland and Labrador,Employment,25 to 54 years,Males,76.4000015258789
+2024-03,Newfoundland and Labrador,Employment,55 years and over,Males,31.2999992370605
+2024-03,Newfoundland and Labrador,Employment,15 to 24 years,Females,16.2000007629395
+2024-03,Newfoundland and Labrador,Employment,25 to 54 years,Females,78.5999984741211
+2024-03,Newfoundland and Labrador,Employment,55 years and over,Females,26.2000007629395
+2024-03,Newfoundland and Labrador,Unemployment,15 to 24 years,Males,3.59999990463257
+2024-03,Newfoundland and Labrador,Unemployment,25 to 54 years,Males,8.30000019073486
+2024-03,Newfoundland and Labrador,Unemployment,55 years and over,Males,5
+2024-03,Newfoundland and Labrador,Unemployment,15 to 24 years,Females,2.20000004768372
+2024-03,Newfoundland and Labrador,Unemployment,25 to 54 years,Females,4.30000019073486
+2024-03,Newfoundland and Labrador,Unemployment,55 years and over,Females,4.09999990463257
+2024-03,Prince Edward Island,Population,15 to 24 years,Males,13.1999998092651
+2024-03,Prince Edward Island,Population,25 to 54 years,Males,33.5999984741211
+2024-03,Prince Edward Island,Population,55 years and over,Males,27
+2024-03,Prince Edward Island,Population,15 to 24 years,Females,11.5
+2024-03,Prince Edward Island,Population,25 to 54 years,Females,33.2999992370605
+2024-03,Prince Edward Island,Population,55 years and over,Females,30.2999992370605
+2024-03,Prince Edward Island,Labour force,15 to 24 years,Males,9.89999961853027
+2024-03,Prince Edward Island,Labour force,25 to 54 years,Males,31
+2024-03,Prince Edward Island,Labour force,55 years and over,Males,12.3000001907349
+2024-03,Prince Edward Island,Labour force,15 to 24 years,Females,6.59999990463257
+2024-03,Prince Edward Island,Labour force,25 to 54 years,Females,29.2000007629395
+2024-03,Prince Edward Island,Labour force,55 years and over,Females,10.1999998092651
+2024-03,Prince Edward Island,Employment,15 to 24 years,Males,8.80000019073486
+2024-03,Prince Edward Island,Employment,25 to 54 years,Males,28.6000003814697
+2024-03,Prince Edward Island,Employment,55 years and over,Males,11.1999998092651
+2024-03,Prince Edward Island,Employment,15 to 24 years,Females,6.09999990463257
+2024-03,Prince Edward Island,Employment,25 to 54 years,Females,27.8999996185303
+2024-03,Prince Edward Island,Employment,55 years and over,Females,9.30000019073486
+2024-03,Prince Edward Island,Unemployment,15 to 24 years,Males,1.20000004768372
+2024-03,Prince Edward Island,Unemployment,25 to 54 years,Males,2.29999995231628
+2024-03,Prince Edward Island,Unemployment,55 years and over,Males,1.10000002384186
+2024-03,Prince Edward Island,Unemployment,15 to 24 years,Females,0.5
+2024-03,Prince Edward Island,Unemployment,25 to 54 years,Females,1.29999995231628
+2024-03,Prince Edward Island,Unemployment,55 years and over,Females,0.899999976158142
+2024-03,Nova Scotia,Population,15 to 24 years,Males,61.7999992370605
+2024-03,Nova Scotia,Population,25 to 54 years,Males,188.699996948242
+2024-03,Nova Scotia,Population,55 years and over,Males,178
+2024-03,Nova Scotia,Population,15 to 24 years,Females,58.2999992370605
+2024-03,Nova Scotia,Population,25 to 54 years,Females,199
+2024-03,Nova Scotia,Population,55 years and over,Females,196.699996948242
+2024-03,Nova Scotia,Labour force,15 to 24 years,Males,41.9000015258789
+2024-03,Nova Scotia,Labour force,25 to 54 years,Males,169.600006103516
+2024-03,Nova Scotia,Labour force,55 years and over,Males,68.6999969482422
+2024-03,Nova Scotia,Labour force,15 to 24 years,Females,39.0999984741211
+2024-03,Nova Scotia,Labour force,25 to 54 years,Females,172
+2024-03,Nova Scotia,Labour force,55 years and over,Females,59.0999984741211
+2024-03,Nova Scotia,Employment,15 to 24 years,Males,38.4000015258789
+2024-03,Nova Scotia,Employment,25 to 54 years,Males,158.600006103516
+2024-03,Nova Scotia,Employment,55 years and over,Males,64.6999969482422
+2024-03,Nova Scotia,Employment,15 to 24 years,Females,34.9000015258789
+2024-03,Nova Scotia,Employment,25 to 54 years,Females,162.899993896484
+2024-03,Nova Scotia,Employment,55 years and over,Females,56.7999992370605
+2024-03,Nova Scotia,Unemployment,15 to 24 years,Males,3.5
+2024-03,Nova Scotia,Unemployment,25 to 54 years,Males,11
+2024-03,Nova Scotia,Unemployment,55 years and over,Males,4
+2024-03,Nova Scotia,Unemployment,15 to 24 years,Females,4.09999990463257
+2024-03,Nova Scotia,Unemployment,25 to 54 years,Females,9.10000038146973
+2024-03,Nova Scotia,Unemployment,55 years and over,Females,2.29999995231628
+2024-03,New Brunswick,Population,15 to 24 years,Males,47.0999984741211
+2024-03,New Brunswick,Population,25 to 54 years,Males,151.100006103516
+2024-03,New Brunswick,Population,55 years and over,Males,146.399993896484
+2024-03,New Brunswick,Population,15 to 24 years,Females,44.9000015258789
+2024-03,New Brunswick,Population,25 to 54 years,Females,151.199996948242
+2024-03,New Brunswick,Population,55 years and over,Females,157.699996948242
+2024-03,New Brunswick,Labour force,15 to 24 years,Males,29.8999996185303
+2024-03,New Brunswick,Labour force,25 to 54 years,Males,137.100006103516
+2024-03,New Brunswick,Labour force,55 years and over,Males,53.7000007629395
+2024-03,New Brunswick,Labour force,15 to 24 years,Females,29.3999996185303
+2024-03,New Brunswick,Labour force,25 to 54 years,Females,128.199996948242
+2024-03,New Brunswick,Labour force,55 years and over,Females,45.7000007629395
+2024-03,New Brunswick,Employment,15 to 24 years,Males,25.7000007629395
+2024-03,New Brunswick,Employment,25 to 54 years,Males,125.099998474121
+2024-03,New Brunswick,Employment,55 years and over,Males,48.5
+2024-03,New Brunswick,Employment,15 to 24 years,Females,25.8999996185303
+2024-03,New Brunswick,Employment,25 to 54 years,Females,123.5
+2024-03,New Brunswick,Employment,55 years and over,Females,42.2000007629395
+2024-03,New Brunswick,Unemployment,15 to 24 years,Males,4.19999980926514
+2024-03,New Brunswick,Unemployment,25 to 54 years,Males,12
+2024-03,New Brunswick,Unemployment,55 years and over,Males,5.19999980926514
+2024-03,New Brunswick,Unemployment,15 to 24 years,Females,3.5
+2024-03,New Brunswick,Unemployment,25 to 54 years,Females,4.69999980926514
+2024-03,New Brunswick,Unemployment,55 years and over,Females,3.5
+2024-03,Quebec,Population,15 to 24 years,Males,495.600006103516
+2024-03,Quebec,Population,25 to 54 years,Males,1728.5
+2024-03,Quebec,Population,55 years and over,Males,1463.09997558594
+2024-03,Quebec,Population,15 to 24 years,Females,468.299987792969
+2024-03,Quebec,Population,25 to 54 years,Females,1660.59997558594
+2024-03,Quebec,Population,55 years and over,Females,1554.09997558594
+2024-03,Quebec,Labour force,15 to 24 years,Males,335.399993896484
+2024-03,Quebec,Labour force,25 to 54 years,Males,1588.09997558594
+2024-03,Quebec,Labour force,55 years and over,Males,590
+2024-03,Quebec,Labour force,15 to 24 years,Females,327.299987792969
+2024-03,Quebec,Labour force,25 to 54 years,Females,1461.40002441406
+2024-03,Quebec,Labour force,55 years and over,Females,449
+2024-03,Quebec,Employment,15 to 24 years,Males,307.299987792969
+2024-03,Quebec,Employment,25 to 54 years,Males,1507.40002441406
+2024-03,Quebec,Employment,55 years and over,Males,563.299987792969
+2024-03,Quebec,Employment,15 to 24 years,Females,298.399993896484
+2024-03,Quebec,Employment,25 to 54 years,Females,1405.90002441406
+2024-03,Quebec,Employment,55 years and over,Females,432.799987792969
+2024-03,Quebec,Unemployment,15 to 24 years,Males,28.1000003814697
+2024-03,Quebec,Unemployment,25 to 54 years,Males,80.5999984741211
+2024-03,Quebec,Unemployment,55 years and over,Males,26.7000007629395
+2024-03,Quebec,Unemployment,15 to 24 years,Females,29
+2024-03,Quebec,Unemployment,25 to 54 years,Females,55.5
+2024-03,Quebec,Unemployment,55 years and over,Females,16.1000003814697
+2024-03,Ontario,Population,15 to 24 years,Males,1052.30004882813
+2024-03,Ontario,Population,25 to 54 years,Males,3142.89990234375
+2024-03,Ontario,Population,55 years and over,Males,2289
+2024-03,Ontario,Population,15 to 24 years,Females,977.5
+2024-03,Ontario,Population,25 to 54 years,Females,3139.19995117188
+2024-03,Ontario,Population,55 years and over,Females,2539.19995117188
+2024-03,Ontario,Labour force,15 to 24 years,Males,626.400024414063
+2024-03,Ontario,Labour force,25 to 54 years,Males,2898.80004882813
+2024-03,Ontario,Labour force,55 years and over,Males,980.799987792969
+2024-03,Ontario,Labour force,15 to 24 years,Females,566
+2024-03,Ontario,Labour force,25 to 54 years,Females,2655.89990234375
+2024-03,Ontario,Labour force,55 years and over,Females,818.299987792969
+2024-03,Ontario,Employment,15 to 24 years,Males,520.599975585938
+2024-03,Ontario,Employment,25 to 54 years,Males,2724.19995117188
+2024-03,Ontario,Employment,55 years and over,Males,937.599975585938
+2024-03,Ontario,Employment,15 to 24 years,Females,484.700012207031
+2024-03,Ontario,Employment,25 to 54 years,Females,2517.30004882813
+2024-03,Ontario,Employment,55 years and over,Females,786.200012207031
+2024-03,Ontario,Unemployment,15 to 24 years,Males,105.900001525879
+2024-03,Ontario,Unemployment,25 to 54 years,Males,174.600006103516
+2024-03,Ontario,Unemployment,55 years and over,Males,43.2999992370605
+2024-03,Ontario,Unemployment,15 to 24 years,Females,81.4000015258789
+2024-03,Ontario,Unemployment,25 to 54 years,Females,138.600006103516
+2024-03,Ontario,Unemployment,55 years and over,Females,32.0999984741211
+2024-03,Manitoba,Population,15 to 24 years,Males,93.6999969482422
+2024-03,Manitoba,Population,25 to 54 years,Males,274.100006103516
+2024-03,Manitoba,Population,55 years and over,Males,187
+2024-03,Manitoba,Population,15 to 24 years,Females,87.1999969482422
+2024-03,Manitoba,Population,25 to 54 years,Females,269
+2024-03,Manitoba,Population,55 years and over,Females,203.300003051758
+2024-03,Manitoba,Labour force,15 to 24 years,Males,65.9000015258789
+2024-03,Manitoba,Labour force,25 to 54 years,Males,254.399993896484
+2024-03,Manitoba,Labour force,55 years and over,Males,70.6999969482422
+2024-03,Manitoba,Labour force,15 to 24 years,Females,55.7000007629395
+2024-03,Manitoba,Labour force,25 to 54 years,Females,229.399993896484
+2024-03,Manitoba,Labour force,55 years and over,Females,60.9000015258789
+2024-03,Manitoba,Employment,15 to 24 years,Males,59.0999984741211
+2024-03,Manitoba,Employment,25 to 54 years,Males,244.100006103516
+2024-03,Manitoba,Employment,55 years and over,Males,67.4000015258789
+2024-03,Manitoba,Employment,15 to 24 years,Females,50.0999984741211
+2024-03,Manitoba,Employment,25 to 54 years,Females,221
+2024-03,Manitoba,Employment,55 years and over,Females,58.7000007629395
+2024-03,Manitoba,Unemployment,15 to 24 years,Males,6.90000009536743
+2024-03,Manitoba,Unemployment,25 to 54 years,Males,10.3999996185303
+2024-03,Manitoba,Unemployment,55 years and over,Males,3.29999995231628
+2024-03,Manitoba,Unemployment,15 to 24 years,Females,5.59999990463257
+2024-03,Manitoba,Unemployment,25 to 54 years,Females,8.30000019073486
+2024-03,Manitoba,Unemployment,55 years and over,Females,2.20000004768372
+2024-03,Saskatchewan,Population,15 to 24 years,Males,75.8000030517578
+2024-03,Saskatchewan,Population,25 to 54 years,Males,234.699996948242
+2024-03,Saskatchewan,Population,55 years and over,Males,164.800003051758
+2024-03,Saskatchewan,Population,15 to 24 years,Females,69.8000030517578
+2024-03,Saskatchewan,Population,25 to 54 years,Females,225.899993896484
+2024-03,Saskatchewan,Population,55 years and over,Females,171.800003051758
+2024-03,Saskatchewan,Labour force,15 to 24 years,Males,46.4000015258789
+2024-03,Saskatchewan,Labour force,25 to 54 years,Males,220.199996948242
+2024-03,Saskatchewan,Labour force,55 years and over,Males,73.8000030517578
+2024-03,Saskatchewan,Labour force,15 to 24 years,Females,43.0999984741211
+2024-03,Saskatchewan,Labour force,25 to 54 years,Females,192.800003051758
+2024-03,Saskatchewan,Labour force,55 years and over,Females,54.7999992370605
+2024-03,Saskatchewan,Employment,15 to 24 years,Males,39.5
+2024-03,Saskatchewan,Employment,25 to 54 years,Males,210.600006103516
+2024-03,Saskatchewan,Employment,55 years and over,Males,70.1999969482422
+2024-03,Saskatchewan,Employment,15 to 24 years,Females,39.5
+2024-03,Saskatchewan,Employment,25 to 54 years,Females,184.300003051758
+2024-03,Saskatchewan,Employment,55 years and over,Females,53.0999984741211
+2024-03,Saskatchewan,Unemployment,15 to 24 years,Males,6.80000019073486
+2024-03,Saskatchewan,Unemployment,25 to 54 years,Males,9.60000038146973
+2024-03,Saskatchewan,Unemployment,55 years and over,Males,3.59999990463257
+2024-03,Saskatchewan,Unemployment,15 to 24 years,Females,3.59999990463257
+2024-03,Saskatchewan,Unemployment,25 to 54 years,Females,8.60000038146973
+2024-03,Saskatchewan,Unemployment,55 years and over,Females,1.70000004768372
+2024-03,Alberta,Population,15 to 24 years,Males,302
+2024-03,Alberta,Population,25 to 54 years,Males,1035.69995117188
+2024-03,Alberta,Population,55 years and over,Males,600.599975585938
+2024-03,Alberta,Population,15 to 24 years,Females,286.899993896484
+2024-03,Alberta,Population,25 to 54 years,Females,1007.70001220703
+2024-03,Alberta,Population,55 years and over,Females,644.099975585938
+2024-03,Alberta,Labour force,15 to 24 years,Males,185.399993896484
+2024-03,Alberta,Labour force,25 to 54 years,Males,969.099975585938
+2024-03,Alberta,Labour force,55 years and over,Males,287.799987792969
+2024-03,Alberta,Labour force,15 to 24 years,Females,186.600006103516
+2024-03,Alberta,Labour force,25 to 54 years,Females,847.700012207031
+2024-03,Alberta,Labour force,55 years and over,Females,219.399993896484
+2024-03,Alberta,Employment,15 to 24 years,Males,155.5
+2024-03,Alberta,Employment,25 to 54 years,Males,923
+2024-03,Alberta,Employment,55 years and over,Males,268.600006103516
+2024-03,Alberta,Employment,15 to 24 years,Females,165.600006103516
+2024-03,Alberta,Employment,25 to 54 years,Females,803.5
+2024-03,Alberta,Employment,55 years and over,Females,210.899993896484
+2024-03,Alberta,Unemployment,15 to 24 years,Males,30
+2024-03,Alberta,Unemployment,25 to 54 years,Males,46.2000007629395
+2024-03,Alberta,Unemployment,55 years and over,Males,19.2999992370605
+2024-03,Alberta,Unemployment,15 to 24 years,Females,21
+2024-03,Alberta,Unemployment,25 to 54 years,Females,44.2000007629395
+2024-03,Alberta,Unemployment,55 years and over,Females,8.5
+2024-03,British Columbia,Population,15 to 24 years,Males,332.200012207031
+2024-03,British Columbia,Population,25 to 54 years,Males,1090.90002441406
+2024-03,British Columbia,Population,55 years and over,Males,843
+2024-03,British Columbia,Population,15 to 24 years,Females,320.200012207031
+2024-03,British Columbia,Population,25 to 54 years,Females,1100.09997558594
+2024-03,British Columbia,Population,55 years and over,Females,932.299987792969
+2024-03,British Columbia,Labour force,15 to 24 years,Males,219.100006103516
+2024-03,British Columbia,Labour force,25 to 54 years,Males,1004
+2024-03,British Columbia,Labour force,55 years and over,Males,349.200012207031
+2024-03,British Columbia,Labour force,15 to 24 years,Females,206.199996948242
+2024-03,British Columbia,Labour force,25 to 54 years,Females,931.700012207031
+2024-03,British Columbia,Labour force,55 years and over,Females,304.799987792969
+2024-03,British Columbia,Employment,15 to 24 years,Males,197.699996948242
+2024-03,British Columbia,Employment,25 to 54 years,Males,954
+2024-03,British Columbia,Employment,55 years and over,Males,337.399993896484
+2024-03,British Columbia,Employment,15 to 24 years,Females,184.100006103516
+2024-03,British Columbia,Employment,25 to 54 years,Females,881.700012207031
+2024-03,British Columbia,Employment,55 years and over,Females,292.799987792969
+2024-03,British Columbia,Unemployment,15 to 24 years,Males,21.2999992370605
+2024-03,British Columbia,Unemployment,25 to 54 years,Males,49.9000015258789
+2024-03,British Columbia,Unemployment,55 years and over,Males,11.6999998092651
+2024-03,British Columbia,Unemployment,15 to 24 years,Females,22.1000003814697
+2024-03,British Columbia,Unemployment,25 to 54 years,Females,50
+2024-03,British Columbia,Unemployment,55 years and over,Females,12
+2024-04,Canada,Population,15 to 24 years,Males,2523.10009765625
+2024-04,Canada,Population,25 to 54 years,Males,8007.10009765625
+2024-04,Canada,Population,55 years and over,Males,6009.5
+2024-04,Canada,Population,15 to 24 years,Females,2368.39990234375
+2024-04,Canada,Population,25 to 54 years,Females,7908
+2024-04,Canada,Population,55 years and over,Females,6548.2001953125
+2024-04,Canada,Labour force,15 to 24 years,Males,1616.59997558594
+2024-04,Canada,Labour force,25 to 54 years,Males,7387.89990234375
+2024-04,Canada,Labour force,55 years and over,Males,2516.30004882813
+2024-04,Canada,Labour force,15 to 24 years,Females,1493.80004882813
+2024-04,Canada,Labour force,25 to 54 years,Females,6764.2001953125
+2024-04,Canada,Labour force,55 years and over,Females,2049.60009765625
+2024-04,Canada,Employment,15 to 24 years,Males,1406.19995117188
+2024-04,Canada,Employment,25 to 54 years,Males,6992.7001953125
+2024-04,Canada,Employment,55 years and over,Males,2399
+2024-04,Canada,Employment,15 to 24 years,Females,1306.19995117188
+2024-04,Canada,Employment,25 to 54 years,Females,6433.7998046875
+2024-04,Canada,Employment,55 years and over,Females,1953.19995117188
+2024-04,Canada,Unemployment,15 to 24 years,Males,210.399993896484
+2024-04,Canada,Unemployment,25 to 54 years,Males,395.299987792969
+2024-04,Canada,Unemployment,55 years and over,Males,117.300003051758
+2024-04,Canada,Unemployment,15 to 24 years,Females,187.600006103516
+2024-04,Canada,Unemployment,25 to 54 years,Females,330.399993896484
+2024-04,Canada,Unemployment,55 years and over,Females,96.4000015258789
+2024-04,Newfoundland and Labrador,Population,15 to 24 years,Males,30.2000007629395
+2024-04,Newfoundland and Labrador,Population,25 to 54 years,Males,94.0999984741211
+2024-04,Newfoundland and Labrador,Population,55 years and over,Males,102
+2024-04,Newfoundland and Labrador,Population,15 to 24 years,Females,27.7999992370605
+2024-04,Newfoundland and Labrador,Population,25 to 54 years,Females,96.6999969482422
+2024-04,Newfoundland and Labrador,Population,55 years and over,Females,109.5
+2024-04,Newfoundland and Labrador,Labour force,15 to 24 years,Males,18.7000007629395
+2024-04,Newfoundland and Labrador,Labour force,25 to 54 years,Males,84.0999984741211
+2024-04,Newfoundland and Labrador,Labour force,55 years and over,Males,34.4000015258789
+2024-04,Newfoundland and Labrador,Labour force,15 to 24 years,Females,18.7999992370605
+2024-04,Newfoundland and Labrador,Labour force,25 to 54 years,Females,82
+2024-04,Newfoundland and Labrador,Labour force,55 years and over,Females,30.6000003814697
+2024-04,Newfoundland and Labrador,Employment,15 to 24 years,Males,15.3999996185303
+2024-04,Newfoundland and Labrador,Employment,25 to 54 years,Males,75.4000015258789
+2024-04,Newfoundland and Labrador,Employment,55 years and over,Males,30.1000003814697
+2024-04,Newfoundland and Labrador,Employment,15 to 24 years,Females,17
+2024-04,Newfoundland and Labrador,Employment,25 to 54 years,Females,78.3000030517578
+2024-04,Newfoundland and Labrador,Employment,55 years and over,Females,28
+2024-04,Newfoundland and Labrador,Unemployment,15 to 24 years,Males,3.29999995231628
+2024-04,Newfoundland and Labrador,Unemployment,25 to 54 years,Males,8.69999980926514
+2024-04,Newfoundland and Labrador,Unemployment,55 years and over,Males,4.30000019073486
+2024-04,Newfoundland and Labrador,Unemployment,15 to 24 years,Females,1.79999995231628
+2024-04,Newfoundland and Labrador,Unemployment,25 to 54 years,Females,3.70000004768372
+2024-04,Newfoundland and Labrador,Unemployment,55 years and over,Females,2.70000004768372
+2024-04,Prince Edward Island,Population,15 to 24 years,Males,13.3000001907349
+2024-04,Prince Edward Island,Population,25 to 54 years,Males,33.7999992370605
+2024-04,Prince Edward Island,Population,55 years and over,Males,27
+2024-04,Prince Edward Island,Population,15 to 24 years,Females,11.5
+2024-04,Prince Edward Island,Population,25 to 54 years,Females,33.4000015258789
+2024-04,Prince Edward Island,Population,55 years and over,Females,30.2999992370605
+2024-04,Prince Edward Island,Labour force,15 to 24 years,Males,9.69999980926514
+2024-04,Prince Edward Island,Labour force,25 to 54 years,Males,31
+2024-04,Prince Edward Island,Labour force,55 years and over,Males,12.6000003814697
+2024-04,Prince Edward Island,Labour force,15 to 24 years,Females,6.80000019073486
+2024-04,Prince Edward Island,Labour force,25 to 54 years,Females,28.8999996185303
+2024-04,Prince Edward Island,Labour force,55 years and over,Females,10.5
+2024-04,Prince Edward Island,Employment,15 to 24 years,Males,8.80000019073486
+2024-04,Prince Edward Island,Employment,25 to 54 years,Males,29
+2024-04,Prince Edward Island,Employment,55 years and over,Males,11.3000001907349
+2024-04,Prince Edward Island,Employment,15 to 24 years,Females,6.19999980926514
+2024-04,Prince Edward Island,Employment,25 to 54 years,Females,27.5
+2024-04,Prince Edward Island,Employment,55 years and over,Females,9.80000019073486
+2024-04,Prince Edward Island,Unemployment,15 to 24 years,Males,0.899999976158142
+2024-04,Prince Edward Island,Unemployment,25 to 54 years,Males,2
+2024-04,Prince Edward Island,Unemployment,55 years and over,Males,1.29999995231628
+2024-04,Prince Edward Island,Unemployment,15 to 24 years,Females,0.5
+2024-04,Prince Edward Island,Unemployment,25 to 54 years,Females,1.39999997615814
+2024-04,Prince Edward Island,Unemployment,55 years and over,Females,0.699999988079071
+2024-04,Nova Scotia,Population,15 to 24 years,Males,62.2000007629395
+2024-04,Nova Scotia,Population,25 to 54 years,Males,189.300003051758
+2024-04,Nova Scotia,Population,55 years and over,Males,178.100006103516
+2024-04,Nova Scotia,Population,15 to 24 years,Females,58.5999984741211
+2024-04,Nova Scotia,Population,25 to 54 years,Females,199.5
+2024-04,Nova Scotia,Population,55 years and over,Females,196.800003051758
+2024-04,Nova Scotia,Labour force,15 to 24 years,Males,42.0999984741211
+2024-04,Nova Scotia,Labour force,25 to 54 years,Males,168.300003051758
+2024-04,Nova Scotia,Labour force,55 years and over,Males,67.1999969482422
+2024-04,Nova Scotia,Labour force,15 to 24 years,Females,40.7000007629395
+2024-04,Nova Scotia,Labour force,25 to 54 years,Females,173.5
+2024-04,Nova Scotia,Labour force,55 years and over,Females,57.2999992370605
+2024-04,Nova Scotia,Employment,15 to 24 years,Males,36.5
+2024-04,Nova Scotia,Employment,25 to 54 years,Males,160.100006103516
+2024-04,Nova Scotia,Employment,55 years and over,Males,63.0999984741211
+2024-04,Nova Scotia,Employment,15 to 24 years,Females,36.7999992370605
+2024-04,Nova Scotia,Employment,25 to 54 years,Females,163.699996948242
+2024-04,Nova Scotia,Employment,55 years and over,Females,55.2999992370605
+2024-04,Nova Scotia,Unemployment,15 to 24 years,Males,5.59999990463257
+2024-04,Nova Scotia,Unemployment,25 to 54 years,Males,8.19999980926514
+2024-04,Nova Scotia,Unemployment,55 years and over,Males,4.09999990463257
+2024-04,Nova Scotia,Unemployment,15 to 24 years,Females,4
+2024-04,Nova Scotia,Unemployment,25 to 54 years,Females,9.80000019073486
+2024-04,Nova Scotia,Unemployment,55 years and over,Females,2
+2024-04,New Brunswick,Population,15 to 24 years,Males,47.5
+2024-04,New Brunswick,Population,25 to 54 years,Males,151.899993896484
+2024-04,New Brunswick,Population,55 years and over,Males,146.600006103516
+2024-04,New Brunswick,Population,15 to 24 years,Females,45.2000007629395
+2024-04,New Brunswick,Population,25 to 54 years,Females,151.800003051758
+2024-04,New Brunswick,Population,55 years and over,Females,157.899993896484
+2024-04,New Brunswick,Labour force,15 to 24 years,Males,30.6000003814697
+2024-04,New Brunswick,Labour force,25 to 54 years,Males,135.5
+2024-04,New Brunswick,Labour force,55 years and over,Males,55.7000007629395
+2024-04,New Brunswick,Labour force,15 to 24 years,Females,30.2999992370605
+2024-04,New Brunswick,Labour force,25 to 54 years,Females,130.399993896484
+2024-04,New Brunswick,Labour force,55 years and over,Females,46.2000007629395
+2024-04,New Brunswick,Employment,15 to 24 years,Males,26.6000003814697
+2024-04,New Brunswick,Employment,25 to 54 years,Males,125.599998474121
+2024-04,New Brunswick,Employment,55 years and over,Males,51.7000007629395
+2024-04,New Brunswick,Employment,15 to 24 years,Females,26.3999996185303
+2024-04,New Brunswick,Employment,25 to 54 years,Females,124.699996948242
+2024-04,New Brunswick,Employment,55 years and over,Females,43.5999984741211
+2024-04,New Brunswick,Unemployment,15 to 24 years,Males,4
+2024-04,New Brunswick,Unemployment,25 to 54 years,Males,9.89999961853027
+2024-04,New Brunswick,Unemployment,55 years and over,Males,3.90000009536743
+2024-04,New Brunswick,Unemployment,15 to 24 years,Females,3.90000009536743
+2024-04,New Brunswick,Unemployment,25 to 54 years,Females,5.69999980926514
+2024-04,New Brunswick,Unemployment,55 years and over,Females,2.59999990463257
+2024-04,Quebec,Population,15 to 24 years,Males,498.700012207031
+2024-04,Quebec,Population,25 to 54 years,Males,1734.5
+2024-04,Quebec,Population,55 years and over,Males,1465.09997558594
+2024-04,Quebec,Population,15 to 24 years,Females,470.799987792969
+2024-04,Quebec,Population,25 to 54 years,Females,1664.59997558594
+2024-04,Quebec,Population,55 years and over,Females,1555.80004882813
+2024-04,Quebec,Labour force,15 to 24 years,Males,349.899993896484
+2024-04,Quebec,Labour force,25 to 54 years,Males,1587.80004882813
+2024-04,Quebec,Labour force,55 years and over,Males,584.599975585938
+2024-04,Quebec,Labour force,15 to 24 years,Females,330
+2024-04,Quebec,Labour force,25 to 54 years,Females,1477.80004882813
+2024-04,Quebec,Labour force,55 years and over,Females,447.600006103516
+2024-04,Quebec,Employment,15 to 24 years,Males,316.100006103516
+2024-04,Quebec,Employment,25 to 54 years,Males,1518.19995117188
+2024-04,Quebec,Employment,55 years and over,Males,561.200012207031
+2024-04,Quebec,Employment,15 to 24 years,Females,299.299987792969
+2024-04,Quebec,Employment,25 to 54 years,Females,1415.19995117188
+2024-04,Quebec,Employment,55 years and over,Females,424.399993896484
+2024-04,Quebec,Unemployment,15 to 24 years,Males,33.9000015258789
+2024-04,Quebec,Unemployment,25 to 54 years,Males,69.5
+2024-04,Quebec,Unemployment,55 years and over,Males,23.5
+2024-04,Quebec,Unemployment,15 to 24 years,Females,30.7000007629395
+2024-04,Quebec,Unemployment,25 to 54 years,Females,62.5999984741211
+2024-04,Quebec,Unemployment,55 years and over,Females,23.2000007629395
+2024-04,Ontario,Population,15 to 24 years,Males,1061.80004882813
+2024-04,Ontario,Population,25 to 54 years,Males,3157.19995117188
+2024-04,Ontario,Population,55 years and over,Males,2292.30004882813
+2024-04,Ontario,Population,15 to 24 years,Females,985.200012207031
+2024-04,Ontario,Population,25 to 54 years,Females,3150.19995117188
+2024-04,Ontario,Population,55 years and over,Females,2542.69995117188
+2024-04,Ontario,Labour force,15 to 24 years,Males,636.700012207031
+2024-04,Ontario,Labour force,25 to 54 years,Males,2918.69995117188
+2024-04,Ontario,Labour force,55 years and over,Males,977.799987792969
+2024-04,Ontario,Labour force,15 to 24 years,Females,562.299987792969
+2024-04,Ontario,Labour force,25 to 54 years,Females,2670.39990234375
+2024-04,Ontario,Labour force,55 years and over,Females,812.799987792969
+2024-04,Ontario,Employment,15 to 24 years,Males,541.400024414063
+2024-04,Ontario,Employment,25 to 54 years,Males,2736.69995117188
+2024-04,Ontario,Employment,55 years and over,Males,933.099975585938
+2024-04,Ontario,Employment,15 to 24 years,Females,476.700012207031
+2024-04,Ontario,Employment,25 to 54 years,Females,2535.39990234375
+2024-04,Ontario,Employment,55 years and over,Females,772.400024414063
+2024-04,Ontario,Unemployment,15 to 24 years,Males,95.3000030517578
+2024-04,Ontario,Unemployment,25 to 54 years,Males,182
+2024-04,Ontario,Unemployment,55 years and over,Males,44.7999992370605
+2024-04,Ontario,Unemployment,15 to 24 years,Females,85.6999969482422
+2024-04,Ontario,Unemployment,25 to 54 years,Females,135
+2024-04,Ontario,Unemployment,55 years and over,Females,40.5
+2024-04,Manitoba,Population,15 to 24 years,Males,94.4000015258789
+2024-04,Manitoba,Population,25 to 54 years,Males,275.299987792969
+2024-04,Manitoba,Population,55 years and over,Males,187.300003051758
+2024-04,Manitoba,Population,15 to 24 years,Females,87.8000030517578
+2024-04,Manitoba,Population,25 to 54 years,Females,269.899993896484
+2024-04,Manitoba,Population,55 years and over,Females,203.600006103516
+2024-04,Manitoba,Labour force,15 to 24 years,Males,64.5999984741211
+2024-04,Manitoba,Labour force,25 to 54 years,Males,256.700012207031
+2024-04,Manitoba,Labour force,55 years and over,Males,72.9000015258789
+2024-04,Manitoba,Labour force,15 to 24 years,Females,55.7000007629395
+2024-04,Manitoba,Labour force,25 to 54 years,Females,229.199996948242
+2024-04,Manitoba,Labour force,55 years and over,Females,61.7999992370605
+2024-04,Manitoba,Employment,15 to 24 years,Males,58
+2024-04,Manitoba,Employment,25 to 54 years,Males,246
+2024-04,Manitoba,Employment,55 years and over,Males,68.6999969482422
+2024-04,Manitoba,Employment,15 to 24 years,Females,50.2999992370605
+2024-04,Manitoba,Employment,25 to 54 years,Females,221.399993896484
+2024-04,Manitoba,Employment,55 years and over,Females,59
+2024-04,Manitoba,Unemployment,15 to 24 years,Males,6.5
+2024-04,Manitoba,Unemployment,25 to 54 years,Males,10.6999998092651
+2024-04,Manitoba,Unemployment,55 years and over,Males,4.19999980926514
+2024-04,Manitoba,Unemployment,15 to 24 years,Females,5.5
+2024-04,Manitoba,Unemployment,25 to 54 years,Females,7.80000019073486
+2024-04,Manitoba,Unemployment,55 years and over,Females,2.79999995231628
+2024-04,Saskatchewan,Population,15 to 24 years,Males,76.3000030517578
+2024-04,Saskatchewan,Population,25 to 54 years,Males,235.5
+2024-04,Saskatchewan,Population,55 years and over,Males,164.899993896484
+2024-04,Saskatchewan,Population,15 to 24 years,Females,70.1999969482422
+2024-04,Saskatchewan,Population,25 to 54 years,Females,226.600006103516
+2024-04,Saskatchewan,Population,55 years and over,Females,171.800003051758
+2024-04,Saskatchewan,Labour force,15 to 24 years,Males,50.0999984741211
+2024-04,Saskatchewan,Labour force,25 to 54 years,Males,219.699996948242
+2024-04,Saskatchewan,Labour force,55 years and over,Males,73.9000015258789
+2024-04,Saskatchewan,Labour force,15 to 24 years,Females,42.0999984741211
+2024-04,Saskatchewan,Labour force,25 to 54 years,Females,193.800003051758
+2024-04,Saskatchewan,Labour force,55 years and over,Females,54.5
+2024-04,Saskatchewan,Employment,15 to 24 years,Males,42.2000007629395
+2024-04,Saskatchewan,Employment,25 to 54 years,Males,210.699996948242
+2024-04,Saskatchewan,Employment,55 years and over,Males,70.5999984741211
+2024-04,Saskatchewan,Employment,15 to 24 years,Females,37
+2024-04,Saskatchewan,Employment,25 to 54 years,Females,184.5
+2024-04,Saskatchewan,Employment,55 years and over,Females,53.0999984741211
+2024-04,Saskatchewan,Unemployment,15 to 24 years,Males,7.80000019073486
+2024-04,Saskatchewan,Unemployment,25 to 54 years,Males,9
+2024-04,Saskatchewan,Unemployment,55 years and over,Males,3.29999995231628
+2024-04,Saskatchewan,Unemployment,15 to 24 years,Females,5
+2024-04,Saskatchewan,Unemployment,25 to 54 years,Females,9.30000019073486
+2024-04,Saskatchewan,Unemployment,55 years and over,Females,1.39999997615814
+2024-04,Alberta,Population,15 to 24 years,Males,304
+2024-04,Alberta,Population,25 to 54 years,Males,1040.69995117188
+2024-04,Alberta,Population,55 years and over,Males,601.900024414063
+2024-04,Alberta,Population,15 to 24 years,Females,288.700012207031
+2024-04,Alberta,Population,25 to 54 years,Females,1012.09997558594
+2024-04,Alberta,Population,55 years and over,Females,645.799987792969
+2024-04,Alberta,Labour force,15 to 24 years,Males,198.600006103516
+2024-04,Alberta,Labour force,25 to 54 years,Males,978
+2024-04,Alberta,Labour force,55 years and over,Males,287.100006103516
+2024-04,Alberta,Labour force,15 to 24 years,Females,191.899993896484
+2024-04,Alberta,Labour force,25 to 54 years,Females,846.799987792969
+2024-04,Alberta,Labour force,55 years and over,Females,225.5
+2024-04,Alberta,Employment,15 to 24 years,Males,162.5
+2024-04,Alberta,Employment,25 to 54 years,Males,928.200012207031
+2024-04,Alberta,Employment,55 years and over,Males,270.200012207031
+2024-04,Alberta,Employment,15 to 24 years,Females,163
+2024-04,Alberta,Employment,25 to 54 years,Females,798.5
+2024-04,Alberta,Employment,55 years and over,Females,215.100006103516
+2024-04,Alberta,Unemployment,15 to 24 years,Males,36.0999984741211
+2024-04,Alberta,Unemployment,25 to 54 years,Males,49.7999992370605
+2024-04,Alberta,Unemployment,55 years and over,Males,16.8999996185303
+2024-04,Alberta,Unemployment,15 to 24 years,Females,28.8999996185303
+2024-04,Alberta,Unemployment,25 to 54 years,Females,48.2999992370605
+2024-04,Alberta,Unemployment,55 years and over,Females,10.3999996185303
+2024-04,British Columbia,Population,15 to 24 years,Males,334.799987792969
+2024-04,British Columbia,Population,25 to 54 years,Males,1094.80004882813
+2024-04,British Columbia,Population,55 years and over,Males,844.200012207031
+2024-04,British Columbia,Population,15 to 24 years,Females,322.700012207031
+2024-04,British Columbia,Population,25 to 54 years,Females,1103.19995117188
+2024-04,British Columbia,Population,55 years and over,Females,933.900024414063
+2024-04,British Columbia,Labour force,15 to 24 years,Males,215.600006103516
+2024-04,British Columbia,Labour force,25 to 54 years,Males,1008.20001220703
+2024-04,British Columbia,Labour force,55 years and over,Males,350.100006103516
+2024-04,British Columbia,Labour force,15 to 24 years,Females,215.100006103516
+2024-04,British Columbia,Labour force,25 to 54 years,Females,931.400024414063
+2024-04,British Columbia,Labour force,55 years and over,Females,302.600006103516
+2024-04,British Columbia,Employment,15 to 24 years,Males,198.600006103516
+2024-04,British Columbia,Employment,25 to 54 years,Males,962.900024414063
+2024-04,British Columbia,Employment,55 years and over,Males,338.899993896484
+2024-04,British Columbia,Employment,15 to 24 years,Females,193.5
+2024-04,British Columbia,Employment,25 to 54 years,Females,884.700012207031
+2024-04,British Columbia,Employment,55 years and over,Females,292.600006103516
+2024-04,British Columbia,Unemployment,15 to 24 years,Males,17
+2024-04,British Columbia,Unemployment,25 to 54 years,Males,45.2999992370605
+2024-04,British Columbia,Unemployment,55 years and over,Males,11.1000003814697
+2024-04,British Columbia,Unemployment,15 to 24 years,Females,21.6000003814697
+2024-04,British Columbia,Unemployment,25 to 54 years,Females,46.7000007629395
+2024-04,British Columbia,Unemployment,55 years and over,Females,10
+2024-05,Canada,Population,15 to 24 years,Males,2538.89990234375
+2024-05,Canada,Population,25 to 54 years,Males,8036.5
+2024-05,Canada,Population,55 years and over,Males,6016.7998046875
+2024-05,Canada,Population,15 to 24 years,Females,2381.89990234375
+2024-05,Canada,Population,25 to 54 years,Females,7931.60009765625
+2024-05,Canada,Population,55 years and over,Females,6556.10009765625
+2024-05,Canada,Labour force,15 to 24 years,Males,1598.80004882813
+2024-05,Canada,Labour force,25 to 54 years,Males,7404.7001953125
+2024-05,Canada,Labour force,55 years and over,Males,2538.30004882813
+2024-05,Canada,Labour force,15 to 24 years,Females,1533.5
+2024-05,Canada,Labour force,25 to 54 years,Females,6738.60009765625
+2024-05,Canada,Labour force,55 years and over,Females,2069.10009765625
+2024-05,Canada,Employment,15 to 24 years,Males,1383.5
+2024-05,Canada,Employment,25 to 54 years,Males,7001.2998046875
+2024-05,Canada,Employment,55 years and over,Males,2411.39990234375
+2024-05,Canada,Employment,15 to 24 years,Females,1354
+2024-05,Canada,Employment,25 to 54 years,Females,6393.60009765625
+2024-05,Canada,Employment,55 years and over,Females,1974
+2024-05,Canada,Unemployment,15 to 24 years,Males,215.199996948242
+2024-05,Canada,Unemployment,25 to 54 years,Males,403.399993896484
+2024-05,Canada,Unemployment,55 years and over,Males,127
+2024-05,Canada,Unemployment,15 to 24 years,Females,179.600006103516
+2024-05,Canada,Unemployment,25 to 54 years,Females,345
+2024-05,Canada,Unemployment,55 years and over,Females,95.0999984741211
+2024-05,Newfoundland and Labrador,Population,15 to 24 years,Males,30.2000007629395
+2024-05,Newfoundland and Labrador,Population,25 to 54 years,Males,94.1999969482422
+2024-05,Newfoundland and Labrador,Population,55 years and over,Males,102
+2024-05,Newfoundland and Labrador,Population,15 to 24 years,Females,27.7999992370605
+2024-05,Newfoundland and Labrador,Population,25 to 54 years,Females,96.6999969482422
+2024-05,Newfoundland and Labrador,Population,55 years and over,Females,109.599998474121
+2024-05,Newfoundland and Labrador,Labour force,15 to 24 years,Males,18.7999992370605
+2024-05,Newfoundland and Labrador,Labour force,25 to 54 years,Males,84.8000030517578
+2024-05,Newfoundland and Labrador,Labour force,55 years and over,Males,34.2999992370605
+2024-05,Newfoundland and Labrador,Labour force,15 to 24 years,Females,16.8999996185303
+2024-05,Newfoundland and Labrador,Labour force,25 to 54 years,Females,83.6999969482422
+2024-05,Newfoundland and Labrador,Labour force,55 years and over,Females,30.2999992370605
+2024-05,Newfoundland and Labrador,Employment,15 to 24 years,Males,15
+2024-05,Newfoundland and Labrador,Employment,25 to 54 years,Males,75.4000015258789
+2024-05,Newfoundland and Labrador,Employment,55 years and over,Males,30.7999992370605
+2024-05,Newfoundland and Labrador,Employment,15 to 24 years,Females,15.8000001907349
+2024-05,Newfoundland and Labrador,Employment,25 to 54 years,Females,77.5999984741211
+2024-05,Newfoundland and Labrador,Employment,55 years and over,Females,27.3999996185303
+2024-05,Newfoundland and Labrador,Unemployment,15 to 24 years,Males,3.79999995231628
+2024-05,Newfoundland and Labrador,Unemployment,25 to 54 years,Males,9.30000019073486
+2024-05,Newfoundland and Labrador,Unemployment,55 years and over,Males,3.5
+2024-05,Newfoundland and Labrador,Unemployment,15 to 24 years,Females,1.20000004768372
+2024-05,Newfoundland and Labrador,Unemployment,25 to 54 years,Females,6
+2024-05,Newfoundland and Labrador,Unemployment,55 years and over,Females,2.90000009536743
+2024-05,Prince Edward Island,Population,15 to 24 years,Males,13.3999996185303
+2024-05,Prince Edward Island,Population,25 to 54 years,Males,34
+2024-05,Prince Edward Island,Population,55 years and over,Males,27.1000003814697
+2024-05,Prince Edward Island,Population,15 to 24 years,Females,11.6000003814697
+2024-05,Prince Edward Island,Population,25 to 54 years,Females,33.5999984741211
+2024-05,Prince Edward Island,Population,55 years and over,Females,30.2999992370605
+2024-05,Prince Edward Island,Labour force,15 to 24 years,Males,9.30000019073486
+2024-05,Prince Edward Island,Labour force,25 to 54 years,Males,30.8999996185303
+2024-05,Prince Edward Island,Labour force,55 years and over,Males,12.6999998092651
+2024-05,Prince Edward Island,Labour force,15 to 24 years,Females,6.69999980926514
+2024-05,Prince Edward Island,Labour force,25 to 54 years,Females,29.2000007629395
+2024-05,Prince Edward Island,Labour force,55 years and over,Females,9.80000019073486
+2024-05,Prince Edward Island,Employment,15 to 24 years,Males,8.39999961853027
+2024-05,Prince Edward Island,Employment,25 to 54 years,Males,29.2000007629395
+2024-05,Prince Edward Island,Employment,55 years and over,Males,11
+2024-05,Prince Edward Island,Employment,15 to 24 years,Females,6
+2024-05,Prince Edward Island,Employment,25 to 54 years,Females,27.8999996185303
+2024-05,Prince Edward Island,Employment,55 years and over,Females,9.10000038146973
+2024-05,Prince Edward Island,Unemployment,15 to 24 years,Males,0.899999976158142
+2024-05,Prince Edward Island,Unemployment,25 to 54 years,Males,1.70000004768372
+2024-05,Prince Edward Island,Unemployment,55 years and over,Males,1.70000004768372
+2024-05,Prince Edward Island,Unemployment,15 to 24 years,Females,0.699999988079071
+2024-05,Prince Edward Island,Unemployment,25 to 54 years,Females,1.39999997615814
+2024-05,Prince Edward Island,Unemployment,55 years and over,Females,0.699999988079071
+2024-05,Nova Scotia,Population,15 to 24 years,Males,62.5
+2024-05,Nova Scotia,Population,25 to 54 years,Males,190
+2024-05,Nova Scotia,Population,55 years and over,Males,178.300003051758
+2024-05,Nova Scotia,Population,15 to 24 years,Females,58.9000015258789
+2024-05,Nova Scotia,Population,25 to 54 years,Females,200.199996948242
+2024-05,Nova Scotia,Population,55 years and over,Females,197
+2024-05,Nova Scotia,Labour force,15 to 24 years,Males,40.9000015258789
+2024-05,Nova Scotia,Labour force,25 to 54 years,Males,169.199996948242
+2024-05,Nova Scotia,Labour force,55 years and over,Males,68.4000015258789
+2024-05,Nova Scotia,Labour force,15 to 24 years,Females,40.7000007629395
+2024-05,Nova Scotia,Labour force,25 to 54 years,Females,171.800003051758
+2024-05,Nova Scotia,Labour force,55 years and over,Females,58.9000015258789
+2024-05,Nova Scotia,Employment,15 to 24 years,Males,36.5999984741211
+2024-05,Nova Scotia,Employment,25 to 54 years,Males,158.600006103516
+2024-05,Nova Scotia,Employment,55 years and over,Males,65
+2024-05,Nova Scotia,Employment,15 to 24 years,Females,34.5999984741211
+2024-05,Nova Scotia,Employment,25 to 54 years,Females,162.600006103516
+2024-05,Nova Scotia,Employment,55 years and over,Females,57.2999992370605
+2024-05,Nova Scotia,Unemployment,15 to 24 years,Males,4.30000019073486
+2024-05,Nova Scotia,Unemployment,25 to 54 years,Males,10.6000003814697
+2024-05,Nova Scotia,Unemployment,55 years and over,Males,3.29999995231628
+2024-05,Nova Scotia,Unemployment,15 to 24 years,Females,6.09999990463257
+2024-05,Nova Scotia,Unemployment,25 to 54 years,Females,9.19999980926514
+2024-05,Nova Scotia,Unemployment,55 years and over,Females,1.60000002384186
+2024-05,New Brunswick,Population,15 to 24 years,Males,47.7999992370605
+2024-05,New Brunswick,Population,25 to 54 years,Males,152.699996948242
+2024-05,New Brunswick,Population,55 years and over,Males,146.800003051758
+2024-05,New Brunswick,Population,15 to 24 years,Females,45.5
+2024-05,New Brunswick,Population,25 to 54 years,Females,152.5
+2024-05,New Brunswick,Population,55 years and over,Females,158.100006103516
+2024-05,New Brunswick,Labour force,15 to 24 years,Males,30.1000003814697
+2024-05,New Brunswick,Labour force,25 to 54 years,Males,137
+2024-05,New Brunswick,Labour force,55 years and over,Males,56.0999984741211
+2024-05,New Brunswick,Labour force,15 to 24 years,Females,30.2000007629395
+2024-05,New Brunswick,Labour force,25 to 54 years,Females,130.600006103516
+2024-05,New Brunswick,Labour force,55 years and over,Females,45.5
+2024-05,New Brunswick,Employment,15 to 24 years,Males,26.3999996185303
+2024-05,New Brunswick,Employment,25 to 54 years,Males,126.5
+2024-05,New Brunswick,Employment,55 years and over,Males,52.5
+2024-05,New Brunswick,Employment,15 to 24 years,Females,25.2000007629395
+2024-05,New Brunswick,Employment,25 to 54 years,Females,124.699996948242
+2024-05,New Brunswick,Employment,55 years and over,Females,42.0999984741211
+2024-05,New Brunswick,Unemployment,15 to 24 years,Males,3.59999990463257
+2024-05,New Brunswick,Unemployment,25 to 54 years,Males,10.6000003814697
+2024-05,New Brunswick,Unemployment,55 years and over,Males,3.59999990463257
+2024-05,New Brunswick,Unemployment,15 to 24 years,Females,4.90000009536743
+2024-05,New Brunswick,Unemployment,25 to 54 years,Females,6
+2024-05,New Brunswick,Unemployment,55 years and over,Females,3.40000009536743
+2024-05,Quebec,Population,15 to 24 years,Males,501.299987792969
+2024-05,Quebec,Population,25 to 54 years,Males,1739.59997558594
+2024-05,Quebec,Population,55 years and over,Males,1466.80004882813
+2024-05,Quebec,Population,15 to 24 years,Females,472.899993896484
+2024-05,Quebec,Population,25 to 54 years,Females,1668.09997558594
+2024-05,Quebec,Population,55 years and over,Females,1557.30004882813
+2024-05,Quebec,Labour force,15 to 24 years,Males,341.200012207031
+2024-05,Quebec,Labour force,25 to 54 years,Males,1585.40002441406
+2024-05,Quebec,Labour force,55 years and over,Males,588.200012207031
+2024-05,Quebec,Labour force,15 to 24 years,Females,331
+2024-05,Quebec,Labour force,25 to 54 years,Females,1480.80004882813
+2024-05,Quebec,Labour force,55 years and over,Females,449.799987792969
+2024-05,Quebec,Employment,15 to 24 years,Males,306.700012207031
+2024-05,Quebec,Employment,25 to 54 years,Males,1510
+2024-05,Quebec,Employment,55 years and over,Males,564.700012207031
+2024-05,Quebec,Employment,15 to 24 years,Females,304.200012207031
+2024-05,Quebec,Employment,25 to 54 years,Females,1414.19995117188
+2024-05,Quebec,Employment,55 years and over,Females,432.5
+2024-05,Quebec,Unemployment,15 to 24 years,Males,34.5999984741211
+2024-05,Quebec,Unemployment,25 to 54 years,Males,75.4000015258789
+2024-05,Quebec,Unemployment,55 years and over,Males,23.5
+2024-05,Quebec,Unemployment,15 to 24 years,Females,26.7999992370605
+2024-05,Quebec,Unemployment,25 to 54 years,Females,66.5999984741211
+2024-05,Quebec,Unemployment,55 years and over,Females,17.2999992370605
+2024-05,Ontario,Population,15 to 24 years,Males,1069.30004882813
+2024-05,Ontario,Population,25 to 54 years,Males,3169.5
+2024-05,Ontario,Population,55 years and over,Males,2294.89990234375
+2024-05,Ontario,Population,15 to 24 years,Females,991.299987792969
+2024-05,Ontario,Population,25 to 54 years,Females,3159.69995117188
+2024-05,Ontario,Population,55 years and over,Females,2545.5
+2024-05,Ontario,Labour force,15 to 24 years,Males,634.900024414063
+2024-05,Ontario,Labour force,25 to 54 years,Males,2930.69995117188
+2024-05,Ontario,Labour force,55 years and over,Males,989.5
+2024-05,Ontario,Labour force,15 to 24 years,Females,598
+2024-05,Ontario,Labour force,25 to 54 years,Females,2655.5
+2024-05,Ontario,Labour force,55 years and over,Females,818.400024414063
+2024-05,Ontario,Employment,15 to 24 years,Males,533.599975585938
+2024-05,Ontario,Employment,25 to 54 years,Males,2763.89990234375
+2024-05,Ontario,Employment,55 years and over,Males,939.799987792969
+2024-05,Ontario,Employment,15 to 24 years,Females,512.400024414063
+2024-05,Ontario,Employment,25 to 54 years,Females,2513.30004882813
+2024-05,Ontario,Employment,55 years and over,Females,781.900024414063
+2024-05,Ontario,Unemployment,15 to 24 years,Males,101.300003051758
+2024-05,Ontario,Unemployment,25 to 54 years,Males,166.800003051758
+2024-05,Ontario,Unemployment,55 years and over,Males,49.7000007629395
+2024-05,Ontario,Unemployment,15 to 24 years,Females,85.5999984741211
+2024-05,Ontario,Unemployment,25 to 54 years,Females,142.100006103516
+2024-05,Ontario,Unemployment,55 years and over,Females,36.5
+2024-05,Manitoba,Population,15 to 24 years,Males,94.9000015258789
+2024-05,Manitoba,Population,25 to 54 years,Males,276.5
+2024-05,Manitoba,Population,55 years and over,Males,187.5
+2024-05,Manitoba,Population,15 to 24 years,Females,88.3000030517578
+2024-05,Manitoba,Population,25 to 54 years,Females,270.899993896484
+2024-05,Manitoba,Population,55 years and over,Females,203.800003051758
+2024-05,Manitoba,Labour force,15 to 24 years,Males,65.6999969482422
+2024-05,Manitoba,Labour force,25 to 54 years,Males,255.100006103516
+2024-05,Manitoba,Labour force,55 years and over,Males,76.5
+2024-05,Manitoba,Labour force,15 to 24 years,Females,58.5999984741211
+2024-05,Manitoba,Labour force,25 to 54 years,Females,228.100006103516
+2024-05,Manitoba,Labour force,55 years and over,Females,64.0999984741211
+2024-05,Manitoba,Employment,15 to 24 years,Males,60
+2024-05,Manitoba,Employment,25 to 54 years,Males,244.800003051758
+2024-05,Manitoba,Employment,55 years and over,Males,71.3000030517578
+2024-05,Manitoba,Employment,15 to 24 years,Females,53.2000007629395
+2024-05,Manitoba,Employment,25 to 54 years,Females,220
+2024-05,Manitoba,Employment,55 years and over,Females,61.7000007629395
+2024-05,Manitoba,Unemployment,15 to 24 years,Males,5.69999980926514
+2024-05,Manitoba,Unemployment,25 to 54 years,Males,10.3000001907349
+2024-05,Manitoba,Unemployment,55 years and over,Males,5.09999990463257
+2024-05,Manitoba,Unemployment,15 to 24 years,Females,5.40000009536743
+2024-05,Manitoba,Unemployment,25 to 54 years,Females,8.10000038146973
+2024-05,Manitoba,Unemployment,55 years and over,Females,2.29999995231628
+2024-05,Saskatchewan,Population,15 to 24 years,Males,76.6999969482422
+2024-05,Saskatchewan,Population,25 to 54 years,Males,236.300003051758
+2024-05,Saskatchewan,Population,55 years and over,Males,165
+2024-05,Saskatchewan,Population,15 to 24 years,Females,70.4000015258789
+2024-05,Saskatchewan,Population,25 to 54 years,Females,227.300003051758
+2024-05,Saskatchewan,Population,55 years and over,Females,171.899993896484
+2024-05,Saskatchewan,Labour force,15 to 24 years,Males,49.7999992370605
+2024-05,Saskatchewan,Labour force,25 to 54 years,Males,221.199996948242
+2024-05,Saskatchewan,Labour force,55 years and over,Males,75.0999984741211
+2024-05,Saskatchewan,Labour force,15 to 24 years,Females,44.5
+2024-05,Saskatchewan,Labour force,25 to 54 years,Females,193.399993896484
+2024-05,Saskatchewan,Labour force,55 years and over,Females,55.7999992370605
+2024-05,Saskatchewan,Employment,15 to 24 years,Males,43
+2024-05,Saskatchewan,Employment,25 to 54 years,Males,211.300003051758
+2024-05,Saskatchewan,Employment,55 years and over,Males,71.4000015258789
+2024-05,Saskatchewan,Employment,15 to 24 years,Females,40.0999984741211
+2024-05,Saskatchewan,Employment,25 to 54 years,Females,183.699996948242
+2024-05,Saskatchewan,Employment,55 years and over,Females,54
+2024-05,Saskatchewan,Unemployment,15 to 24 years,Males,6.80000019073486
+2024-05,Saskatchewan,Unemployment,25 to 54 years,Males,9.80000019073486
+2024-05,Saskatchewan,Unemployment,55 years and over,Males,3.59999990463257
+2024-05,Saskatchewan,Unemployment,15 to 24 years,Females,4.40000009536743
+2024-05,Saskatchewan,Unemployment,25 to 54 years,Females,9.69999980926514
+2024-05,Saskatchewan,Unemployment,55 years and over,Females,1.79999995231628
+2024-05,Alberta,Population,15 to 24 years,Males,305.899993896484
+2024-05,Alberta,Population,25 to 54 years,Males,1045.5
+2024-05,Alberta,Population,55 years and over,Males,603.099975585938
+2024-05,Alberta,Population,15 to 24 years,Females,290.399993896484
+2024-05,Alberta,Population,25 to 54 years,Females,1016.40002441406
+2024-05,Alberta,Population,55 years and over,Females,647.299987792969
+2024-05,Alberta,Labour force,15 to 24 years,Males,192.600006103516
+2024-05,Alberta,Labour force,25 to 54 years,Males,977.599975585938
+2024-05,Alberta,Labour force,55 years and over,Males,287.5
+2024-05,Alberta,Labour force,15 to 24 years,Females,189.5
+2024-05,Alberta,Labour force,25 to 54 years,Females,840
+2024-05,Alberta,Labour force,55 years and over,Females,225.399993896484
+2024-05,Alberta,Employment,15 to 24 years,Males,161.399993896484
+2024-05,Alberta,Employment,25 to 54 years,Males,919.299987792969
+2024-05,Alberta,Employment,55 years and over,Males,267.799987792969
+2024-05,Alberta,Employment,15 to 24 years,Females,166.5
+2024-05,Alberta,Employment,25 to 54 years,Females,791.299987792969
+2024-05,Alberta,Employment,55 years and over,Females,210.699996948242
+2024-05,Alberta,Unemployment,15 to 24 years,Males,31.2000007629395
+2024-05,Alberta,Unemployment,25 to 54 years,Males,58.2999992370605
+2024-05,Alberta,Unemployment,55 years and over,Males,19.7000007629395
+2024-05,Alberta,Unemployment,15 to 24 years,Females,23
+2024-05,Alberta,Unemployment,25 to 54 years,Females,48.7000007629395
+2024-05,Alberta,Unemployment,55 years and over,Females,14.8000001907349
+2024-05,British Columbia,Population,15 to 24 years,Males,336.799987792969
+2024-05,British Columbia,Population,25 to 54 years,Males,1098.19995117188
+2024-05,British Columbia,Population,55 years and over,Males,845.299987792969
+2024-05,British Columbia,Population,15 to 24 years,Females,324.799987792969
+2024-05,British Columbia,Population,25 to 54 years,Females,1106.09997558594
+2024-05,British Columbia,Population,55 years and over,Females,935.299987792969
+2024-05,British Columbia,Labour force,15 to 24 years,Males,215.399993896484
+2024-05,British Columbia,Labour force,25 to 54 years,Males,1012.79998779297
+2024-05,British Columbia,Labour force,55 years and over,Males,350.100006103516
+2024-05,British Columbia,Labour force,15 to 24 years,Females,217.5
+2024-05,British Columbia,Labour force,25 to 54 years,Females,925.5
+2024-05,British Columbia,Labour force,55 years and over,Females,311.200012207031
+2024-05,British Columbia,Employment,15 to 24 years,Males,192.5
+2024-05,British Columbia,Employment,25 to 54 years,Males,962.099975585938
+2024-05,British Columbia,Employment,55 years and over,Males,337
+2024-05,British Columbia,Employment,15 to 24 years,Females,196
+2024-05,British Columbia,Employment,25 to 54 years,Females,878.299987792969
+2024-05,British Columbia,Employment,55 years and over,Females,297.399993896484
+2024-05,British Columbia,Unemployment,15 to 24 years,Males,23
+2024-05,British Columbia,Unemployment,25 to 54 years,Males,50.7000007629395
+2024-05,British Columbia,Unemployment,55 years and over,Males,13.1000003814697
+2024-05,British Columbia,Unemployment,15 to 24 years,Females,21.5
+2024-05,British Columbia,Unemployment,25 to 54 years,Females,47.2000007629395
+2024-05,British Columbia,Unemployment,55 years and over,Females,13.8000001907349

@@ -1,0 +1,936 @@
+﻿date_month,location,industry,total_count
+2024-01,Canada,"Total employed, all industries",20362.19921875
+2024-01,Canada,Agriculture,235
+2024-01,Canada,"Forestry, fishing, mining, quarrying, oil and gas",330.700012207031
+2024-01,Canada,Utilities,155.800003051758
+2024-01,Canada,Construction,1575.09997558594
+2024-01,Canada,Manufacturing,1808.09997558594
+2024-01,Canada,Wholesale and retail trade,2963.39990234375
+2024-01,Canada,Transportation and warehousing,1073.40002441406
+2024-01,Canada,"Finance, insurance, real estate, rental and leasing",1391.30004882813
+2024-01,Canada,"Professional, scientific and technical services",1922.80004882813
+2024-01,Canada,"Business, building and other support services",695.799987792969
+2024-01,Canada,Educational services,1547.30004882813
+2024-01,Canada,Health care and social assistance,2713.39990234375
+2024-01,Canada,"Information, culture and recreation",843
+2024-01,Canada,Accommodation and food services,1104.5
+2024-01,Canada,Other services (except public administration),791.599975585938
+2024-01,Canada,Public administration,1211
+2024-01,Newfoundland and Labrador,"Total employed, all industries",245.5
+2024-01,Newfoundland and Labrador,Agriculture,1.20000004768372
+2024-01,Newfoundland and Labrador,"Forestry, fishing, mining, quarrying, oil and gas",17.7999992370605
+2024-01,Newfoundland and Labrador,Utilities,2.09999990463257
+2024-01,Newfoundland and Labrador,Construction,21.6000003814697
+2024-01,Newfoundland and Labrador,Manufacturing,8.5
+2024-01,Newfoundland and Labrador,Wholesale and retail trade,37.2999992370605
+2024-01,Newfoundland and Labrador,Transportation and warehousing,12.6000003814697
+2024-01,Newfoundland and Labrador,"Finance, insurance, real estate, rental and leasing",7.59999990463257
+2024-01,Newfoundland and Labrador,"Professional, scientific and technical services",12.1999998092651
+2024-01,Newfoundland and Labrador,"Business, building and other support services",6.19999980926514
+2024-01,Newfoundland and Labrador,Educational services,19.2999992370605
+2024-01,Newfoundland and Labrador,Health care and social assistance,46.5999984741211
+2024-01,Newfoundland and Labrador,"Information, culture and recreation",7.90000009536743
+2024-01,Newfoundland and Labrador,Accommodation and food services,15.3999996185303
+2024-01,Newfoundland and Labrador,Other services (except public administration),8.30000019073486
+2024-01,Newfoundland and Labrador,Public administration,20.8999996185303
+2024-01,Prince Edward Island,"Total employed, all industries",92
+2024-01,Prince Edward Island,Agriculture,3.59999990463257
+2024-01,Prince Edward Island,"Forestry, fishing, mining, quarrying, oil and gas",1.70000004768372
+2024-01,Prince Edward Island,Utilities,0.300000011920929
+2024-01,Prince Edward Island,Construction,7.69999980926514
+2024-01,Prince Edward Island,Manufacturing,8.5
+2024-01,Prince Edward Island,Wholesale and retail trade,10.5
+2024-01,Prince Edward Island,Transportation and warehousing,3.29999995231628
+2024-01,Prince Edward Island,"Finance, insurance, real estate, rental and leasing",4
+2024-01,Prince Edward Island,"Professional, scientific and technical services",4.90000009536743
+2024-01,Prince Edward Island,"Business, building and other support services",2.40000009536743
+2024-01,Prince Edward Island,Educational services,6.90000009536743
+2024-01,Prince Edward Island,Health care and social assistance,14
+2024-01,Prince Edward Island,"Information, culture and recreation",3.09999990463257
+2024-01,Prince Edward Island,Accommodation and food services,6.5
+2024-01,Prince Edward Island,Other services (except public administration),3.90000009536743
+2024-01,Prince Edward Island,Public administration,10.6999998092651
+2024-01,Nova Scotia,"Total employed, all industries",511.600006103516
+2024-01,Nova Scotia,Agriculture,3.70000004768372
+2024-01,Nova Scotia,"Forestry, fishing, mining, quarrying, oil and gas",8.60000038146973
+2024-01,Nova Scotia,Utilities,3.20000004768372
+2024-01,Nova Scotia,Construction,38.7999992370605
+2024-01,Nova Scotia,Manufacturing,35.7000007629395
+2024-01,Nova Scotia,Wholesale and retail trade,82.5999984741211
+2024-01,Nova Scotia,Transportation and warehousing,22.5
+2024-01,Nova Scotia,"Finance, insurance, real estate, rental and leasing",31.5
+2024-01,Nova Scotia,"Professional, scientific and technical services",37.5
+2024-01,Nova Scotia,"Business, building and other support services",17.8999996185303
+2024-01,Nova Scotia,Educational services,42.5999984741211
+2024-01,Nova Scotia,Health care and social assistance,77.8000030517578
+2024-01,Nova Scotia,"Information, culture and recreation",18.8999996185303
+2024-01,Nova Scotia,Accommodation and food services,30.8999996185303
+2024-01,Nova Scotia,Other services (except public administration),23.1000003814697
+2024-01,Nova Scotia,Public administration,36.2999992370605
+2024-01,New Brunswick,"Total employed, all industries",392.100006103516
+2024-01,New Brunswick,Agriculture,5.5
+2024-01,New Brunswick,"Forestry, fishing, mining, quarrying, oil and gas",7.19999980926514
+2024-01,New Brunswick,Utilities,5
+2024-01,New Brunswick,Construction,36.2000007629395
+2024-01,New Brunswick,Manufacturing,27.5
+2024-01,New Brunswick,Wholesale and retail trade,56.0999984741211
+2024-01,New Brunswick,Transportation and warehousing,20.7999992370605
+2024-01,New Brunswick,"Finance, insurance, real estate, rental and leasing",19.6000003814697
+2024-01,New Brunswick,"Professional, scientific and technical services",23.3999996185303
+2024-01,New Brunswick,"Business, building and other support services",13.1000003814697
+2024-01,New Brunswick,Educational services,30
+2024-01,New Brunswick,Health care and social assistance,61.2000007629395
+2024-01,New Brunswick,"Information, culture and recreation",13.1000003814697
+2024-01,New Brunswick,Accommodation and food services,21.2999992370605
+2024-01,New Brunswick,Other services (except public administration),14.8000001907349
+2024-01,New Brunswick,Public administration,37.0999984741211
+2024-01,Quebec,"Total employed, all industries",4524.39990234375
+2024-01,Quebec,Agriculture,48.0999984741211
+2024-01,Quebec,"Forestry, fishing, mining, quarrying, oil and gas",35.2000007629395
+2024-01,Quebec,Utilities,33.2999992370605
+2024-01,Quebec,Construction,309.399993896484
+2024-01,Quebec,Manufacturing,498.899993896484
+2024-01,Quebec,Wholesale and retail trade,673.200012207031
+2024-01,Quebec,Transportation and warehousing,225.199996948242
+2024-01,Quebec,"Finance, insurance, real estate, rental and leasing",266.600006103516
+2024-01,Quebec,"Professional, scientific and technical services",381.399993896484
+2024-01,Quebec,"Business, building and other support services",163.300003051758
+2024-01,Quebec,Educational services,355.700012207031
+2024-01,Quebec,Health care and social assistance,616.099975585938
+2024-01,Quebec,"Information, culture and recreation",206.399993896484
+2024-01,Quebec,Accommodation and food services,239.399993896484
+2024-01,Quebec,Other services (except public administration),177.399993896484
+2024-01,Quebec,Public administration,294.700012207031
+2024-01,Ontario,"Total employed, all industries",7937.7001953125
+2024-01,Ontario,Agriculture,76
+2024-01,Ontario,"Forestry, fishing, mining, quarrying, oil and gas",39.0999984741211
+2024-01,Ontario,Utilities,61.0999984741211
+2024-01,Ontario,Construction,589.900024414063
+2024-01,Ontario,Manufacturing,808.5
+2024-01,Ontario,Wholesale and retail trade,1105.30004882813
+2024-01,Ontario,Transportation and warehousing,405.399993896484
+2024-01,Ontario,"Finance, insurance, real estate, rental and leasing",676.299987792969
+2024-01,Ontario,"Professional, scientific and technical services",865
+2024-01,Ontario,"Business, building and other support services",288.700012207031
+2024-01,Ontario,Educational services,589
+2024-01,Ontario,Health care and social assistance,968.099975585938
+2024-01,Ontario,"Information, culture and recreation",319.700012207031
+2024-01,Ontario,Accommodation and food services,405.600006103516
+2024-01,Ontario,Other services (except public administration),283.600006103516
+2024-01,Ontario,Public administration,456.299987792969
+2024-01,Manitoba,"Total employed, all industries",710
+2024-01,Manitoba,Agriculture,13.8999996185303
+2024-01,Manitoba,"Forestry, fishing, mining, quarrying, oil and gas",5.69999980926514
+2024-01,Manitoba,Utilities,6.09999990463257
+2024-01,Manitoba,Construction,63.2000007629395
+2024-01,Manitoba,Manufacturing,72.4000015258789
+2024-01,Manitoba,Wholesale and retail trade,97.8000030517578
+2024-01,Manitoba,Transportation and warehousing,49.4000015258789
+2024-01,Manitoba,"Finance, insurance, real estate, rental and leasing",43.5
+2024-01,Manitoba,"Professional, scientific and technical services",37.2000007629395
+2024-01,Manitoba,"Business, building and other support services",19.2999992370605
+2024-01,Manitoba,Educational services,63.0999984741211
+2024-01,Manitoba,Health care and social assistance,110.699996948242
+2024-01,Manitoba,"Information, culture and recreation",23.2999992370605
+2024-01,Manitoba,Accommodation and food services,33.2000007629395
+2024-01,Manitoba,Other services (except public administration),25.8999996185303
+2024-01,Manitoba,Public administration,45.5999984741211
+2024-01,Saskatchewan,"Total employed, all industries",600.799987792969
+2024-01,Saskatchewan,Agriculture,22.2000007629395
+2024-01,Saskatchewan,"Forestry, fishing, mining, quarrying, oil and gas",19.3999996185303
+2024-01,Saskatchewan,Utilities,7.09999990463257
+2024-01,Saskatchewan,Construction,42.7000007629395
+2024-01,Saskatchewan,Manufacturing,33.7999992370605
+2024-01,Saskatchewan,Wholesale and retail trade,101.199996948242
+2024-01,Saskatchewan,Transportation and warehousing,26.5
+2024-01,Saskatchewan,"Finance, insurance, real estate, rental and leasing",29.6000003814697
+2024-01,Saskatchewan,"Professional, scientific and technical services",39.5999984741211
+2024-01,Saskatchewan,"Business, building and other support services",14.5
+2024-01,Saskatchewan,Educational services,53.7000007629395
+2024-01,Saskatchewan,Health care and social assistance,91.6999969482422
+2024-01,Saskatchewan,"Information, culture and recreation",22.2999992370605
+2024-01,Saskatchewan,Accommodation and food services,30.2999992370605
+2024-01,Saskatchewan,Other services (except public administration),28
+2024-01,Saskatchewan,Public administration,38.2999992370605
+2024-01,Alberta,"Total employed, all industries",2512.69995117188
+2024-01,Alberta,Agriculture,38.7000007629395
+2024-01,Alberta,"Forestry, fishing, mining, quarrying, oil and gas",145.5
+2024-01,Alberta,Utilities,23.1000003814697
+2024-01,Alberta,Construction,238.899993896484
+2024-01,Alberta,Manufacturing,142.600006103516
+2024-01,Alberta,Wholesale and retail trade,367.200012207031
+2024-01,Alberta,Transportation and warehousing,154.699996948242
+2024-01,Alberta,"Finance, insurance, real estate, rental and leasing",134.899993896484
+2024-01,Alberta,"Professional, scientific and technical services",232.399993896484
+2024-01,Alberta,"Business, building and other support services",80.5999984741211
+2024-01,Alberta,Educational services,169.800003051758
+2024-01,Alberta,Health care and social assistance,330
+2024-01,Alberta,"Information, culture and recreation",88.5
+2024-01,Alberta,Accommodation and food services,139.600006103516
+2024-01,Alberta,Other services (except public administration),105.099998474121
+2024-01,Alberta,Public administration,121.199996948242
+2024-01,British Columbia,"Total employed, all industries",2835.30004882813
+2024-01,British Columbia,Agriculture,22.1000003814697
+2024-01,British Columbia,"Forestry, fishing, mining, quarrying, oil and gas",50.5999984741211
+2024-01,British Columbia,Utilities,14.3999996185303
+2024-01,British Columbia,Construction,226.699996948242
+2024-01,British Columbia,Manufacturing,171.699996948242
+2024-01,British Columbia,Wholesale and retail trade,432.399993896484
+2024-01,British Columbia,Transportation and warehousing,152.800003051758
+2024-01,British Columbia,"Finance, insurance, real estate, rental and leasing",177.800003051758
+2024-01,British Columbia,"Professional, scientific and technical services",289.299987792969
+2024-01,British Columbia,"Business, building and other support services",89.6999969482422
+2024-01,British Columbia,Educational services,217.5
+2024-01,British Columbia,Health care and social assistance,397.200012207031
+2024-01,British Columbia,"Information, culture and recreation",139.800003051758
+2024-01,British Columbia,Accommodation and food services,182.399993896484
+2024-01,British Columbia,Other services (except public administration),121.300003051758
+2024-01,British Columbia,Public administration,149.699996948242
+2024-02,Canada,"Total employed, all industries",20402.900390625
+2024-02,Canada,Agriculture,229
+2024-02,Canada,"Forestry, fishing, mining, quarrying, oil and gas",334.600006103516
+2024-02,Canada,Utilities,155.100006103516
+2024-02,Canada,Construction,1585.59997558594
+2024-02,Canada,Manufacturing,1794.19995117188
+2024-02,Canada,Wholesale and retail trade,2946.60009765625
+2024-02,Canada,Transportation and warehousing,1082.80004882813
+2024-02,Canada,"Finance, insurance, real estate, rental and leasing",1394.5
+2024-02,Canada,"Professional, scientific and technical services",1940.69995117188
+2024-02,Canada,"Business, building and other support services",682.599975585938
+2024-02,Canada,Educational services,1530.30004882813
+2024-02,Canada,Health care and social assistance,2721.60009765625
+2024-02,Canada,"Information, culture and recreation",852.400024414063
+2024-02,Canada,Accommodation and food services,1130.69995117188
+2024-02,Canada,Other services (except public administration),802.400024414063
+2024-02,Canada,Public administration,1219.80004882813
+2024-02,Newfoundland and Labrador,"Total employed, all industries",243.699996948242
+2024-02,Newfoundland and Labrador,Agriculture,1.20000004768372
+2024-02,Newfoundland and Labrador,"Forestry, fishing, mining, quarrying, oil and gas",17.7999992370605
+2024-02,Newfoundland and Labrador,Utilities,2.09999990463257
+2024-02,Newfoundland and Labrador,Construction,21.3999996185303
+2024-02,Newfoundland and Labrador,Manufacturing,8.19999980926514
+2024-02,Newfoundland and Labrador,Wholesale and retail trade,38.2000007629395
+2024-02,Newfoundland and Labrador,Transportation and warehousing,12.3000001907349
+2024-02,Newfoundland and Labrador,"Finance, insurance, real estate, rental and leasing",7.59999990463257
+2024-02,Newfoundland and Labrador,"Professional, scientific and technical services",12.3999996185303
+2024-02,Newfoundland and Labrador,"Business, building and other support services",5.40000009536743
+2024-02,Newfoundland and Labrador,Educational services,19
+2024-02,Newfoundland and Labrador,Health care and social assistance,46.5
+2024-02,Newfoundland and Labrador,"Information, culture and recreation",7.30000019073486
+2024-02,Newfoundland and Labrador,Accommodation and food services,14
+2024-02,Newfoundland and Labrador,Other services (except public administration),8.60000038146973
+2024-02,Newfoundland and Labrador,Public administration,21.7999992370605
+2024-02,Prince Edward Island,"Total employed, all industries",92
+2024-02,Prince Edward Island,Agriculture,4
+2024-02,Prince Edward Island,"Forestry, fishing, mining, quarrying, oil and gas",1.39999997615814
+2024-02,Prince Edward Island,Utilities,0.400000005960464
+2024-02,Prince Edward Island,Construction,7.59999990463257
+2024-02,Prince Edward Island,Manufacturing,8.19999980926514
+2024-02,Prince Edward Island,Wholesale and retail trade,10.6999998092651
+2024-02,Prince Edward Island,Transportation and warehousing,3.5
+2024-02,Prince Edward Island,"Finance, insurance, real estate, rental and leasing",3.90000009536743
+2024-02,Prince Edward Island,"Professional, scientific and technical services",5
+2024-02,Prince Edward Island,"Business, building and other support services",2.5
+2024-02,Prince Edward Island,Educational services,6.69999980926514
+2024-02,Prince Edward Island,Health care and social assistance,14.5
+2024-02,Prince Edward Island,"Information, culture and recreation",3.20000004768372
+2024-02,Prince Edward Island,Accommodation and food services,6.09999990463257
+2024-02,Prince Edward Island,Other services (except public administration),3.70000004768372
+2024-02,Prince Edward Island,Public administration,10.6000003814697
+2024-02,Nova Scotia,"Total employed, all industries",517.900024414063
+2024-02,Nova Scotia,Agriculture,4.40000009536743
+2024-02,Nova Scotia,"Forestry, fishing, mining, quarrying, oil and gas",8.60000038146973
+2024-02,Nova Scotia,Utilities,3.90000009536743
+2024-02,Nova Scotia,Construction,38.2999992370605
+2024-02,Nova Scotia,Manufacturing,35.9000015258789
+2024-02,Nova Scotia,Wholesale and retail trade,84.5999984741211
+2024-02,Nova Scotia,Transportation and warehousing,22.6000003814697
+2024-02,Nova Scotia,"Finance, insurance, real estate, rental and leasing",30.6000003814697
+2024-02,Nova Scotia,"Professional, scientific and technical services",37.7000007629395
+2024-02,Nova Scotia,"Business, building and other support services",18.6000003814697
+2024-02,Nova Scotia,Educational services,42.2999992370605
+2024-02,Nova Scotia,Health care and social assistance,78.8000030517578
+2024-02,Nova Scotia,"Information, culture and recreation",20.5
+2024-02,Nova Scotia,Accommodation and food services,32.4000015258789
+2024-02,Nova Scotia,Other services (except public administration),22.6000003814697
+2024-02,Nova Scotia,Public administration,36.0999984741211
+2024-02,New Brunswick,"Total employed, all industries",392.600006103516
+2024-02,New Brunswick,Agriculture,5
+2024-02,New Brunswick,"Forestry, fishing, mining, quarrying, oil and gas",7.90000009536743
+2024-02,New Brunswick,Utilities,5.19999980926514
+2024-02,New Brunswick,Construction,35.2000007629395
+2024-02,New Brunswick,Manufacturing,28.1000003814697
+2024-02,New Brunswick,Wholesale and retail trade,55.0999984741211
+2024-02,New Brunswick,Transportation and warehousing,21.7999992370605
+2024-02,New Brunswick,"Finance, insurance, real estate, rental and leasing",19.3999996185303
+2024-02,New Brunswick,"Professional, scientific and technical services",23.6000003814697
+2024-02,New Brunswick,"Business, building and other support services",12.6999998092651
+2024-02,New Brunswick,Educational services,30.7000007629395
+2024-02,New Brunswick,Health care and social assistance,62.2000007629395
+2024-02,New Brunswick,"Information, culture and recreation",13.3000001907349
+2024-02,New Brunswick,Accommodation and food services,21.3999996185303
+2024-02,New Brunswick,Other services (except public administration),14.8999996185303
+2024-02,New Brunswick,Public administration,36.0999984741211
+2024-02,Quebec,"Total employed, all industries",4533.2001953125
+2024-02,Quebec,Agriculture,47
+2024-02,Quebec,"Forestry, fishing, mining, quarrying, oil and gas",38.4000015258789
+2024-02,Quebec,Utilities,32.9000015258789
+2024-02,Quebec,Construction,314
+2024-02,Quebec,Manufacturing,489.200012207031
+2024-02,Quebec,Wholesale and retail trade,664.799987792969
+2024-02,Quebec,Transportation and warehousing,229.300003051758
+2024-02,Quebec,"Finance, insurance, real estate, rental and leasing",266.200012207031
+2024-02,Quebec,"Professional, scientific and technical services",390.100006103516
+2024-02,Quebec,"Business, building and other support services",155.699996948242
+2024-02,Quebec,Educational services,348.700012207031
+2024-02,Quebec,Health care and social assistance,623.299987792969
+2024-02,Quebec,"Information, culture and recreation",202.100006103516
+2024-02,Quebec,Accommodation and food services,252.100006103516
+2024-02,Quebec,Other services (except public administration),182.5
+2024-02,Quebec,Public administration,296.799987792969
+2024-02,Ontario,"Total employed, all industries",7944.39990234375
+2024-02,Ontario,Agriculture,75.4000015258789
+2024-02,Ontario,"Forestry, fishing, mining, quarrying, oil and gas",39.4000015258789
+2024-02,Ontario,Utilities,62
+2024-02,Ontario,Construction,584.400024414063
+2024-02,Ontario,Manufacturing,807.599975585938
+2024-02,Ontario,Wholesale and retail trade,1089.19995117188
+2024-02,Ontario,Transportation and warehousing,408.899993896484
+2024-02,Ontario,"Finance, insurance, real estate, rental and leasing",677.200012207031
+2024-02,Ontario,"Professional, scientific and technical services",869
+2024-02,Ontario,"Business, building and other support services",273.799987792969
+2024-02,Ontario,Educational services,584.599975585938
+2024-02,Ontario,Health care and social assistance,969.900024414063
+2024-02,Ontario,"Information, culture and recreation",328.100006103516
+2024-02,Ontario,Accommodation and food services,422.299987792969
+2024-02,Ontario,Other services (except public administration),290.600006103516
+2024-02,Ontario,Public administration,461.799987792969
+2024-02,Manitoba,"Total employed, all industries",704.700012207031
+2024-02,Manitoba,Agriculture,13
+2024-02,Manitoba,"Forestry, fishing, mining, quarrying, oil and gas",5.40000009536743
+2024-02,Manitoba,Utilities,6.19999980926514
+2024-02,Manitoba,Construction,60.5
+2024-02,Manitoba,Manufacturing,69.1999969482422
+2024-02,Manitoba,Wholesale and retail trade,96.6999969482422
+2024-02,Manitoba,Transportation and warehousing,49
+2024-02,Manitoba,"Finance, insurance, real estate, rental and leasing",44.2999992370605
+2024-02,Manitoba,"Professional, scientific and technical services",36
+2024-02,Manitoba,"Business, building and other support services",17.7999992370605
+2024-02,Manitoba,Educational services,62.7000007629395
+2024-02,Manitoba,Health care and social assistance,111.199996948242
+2024-02,Manitoba,"Information, culture and recreation",24.8999996185303
+2024-02,Manitoba,Accommodation and food services,32.5
+2024-02,Manitoba,Other services (except public administration),28.8999996185303
+2024-02,Manitoba,Public administration,46.2999992370605
+2024-02,Saskatchewan,"Total employed, all industries",603.099975585938
+2024-02,Saskatchewan,Agriculture,22.2999992370605
+2024-02,Saskatchewan,"Forestry, fishing, mining, quarrying, oil and gas",19.6000003814697
+2024-02,Saskatchewan,Utilities,6.80000019073486
+2024-02,Saskatchewan,Construction,43
+2024-02,Saskatchewan,Manufacturing,33.5999984741211
+2024-02,Saskatchewan,Wholesale and retail trade,101.900001525879
+2024-02,Saskatchewan,Transportation and warehousing,28.6000003814697
+2024-02,Saskatchewan,"Finance, insurance, real estate, rental and leasing",29.8999996185303
+2024-02,Saskatchewan,"Professional, scientific and technical services",39.2000007629395
+2024-02,Saskatchewan,"Business, building and other support services",16
+2024-02,Saskatchewan,Educational services,52.5
+2024-02,Saskatchewan,Health care and social assistance,92.8000030517578
+2024-02,Saskatchewan,"Information, culture and recreation",22.6000003814697
+2024-02,Saskatchewan,Accommodation and food services,30.8999996185303
+2024-02,Saskatchewan,Other services (except public administration),26.2999992370605
+2024-02,Saskatchewan,Public administration,37.0999984741211
+2024-02,Alberta,"Total employed, all industries",2530.10009765625
+2024-02,Alberta,Agriculture,39.0999984741211
+2024-02,Alberta,"Forestry, fishing, mining, quarrying, oil and gas",144.199996948242
+2024-02,Alberta,Utilities,20.8999996185303
+2024-02,Alberta,Construction,250.899993896484
+2024-02,Alberta,Manufacturing,143.399993896484
+2024-02,Alberta,Wholesale and retail trade,378.700012207031
+2024-02,Alberta,Transportation and warehousing,154.899993896484
+2024-02,Alberta,"Finance, insurance, real estate, rental and leasing",135.600006103516
+2024-02,Alberta,"Professional, scientific and technical services",239.800003051758
+2024-02,Alberta,"Business, building and other support services",87.0999984741211
+2024-02,Alberta,Educational services,163.199996948242
+2024-02,Alberta,Health care and social assistance,323.100006103516
+2024-02,Alberta,"Information, culture and recreation",83.3000030517578
+2024-02,Alberta,Accommodation and food services,139.199996948242
+2024-02,Alberta,Other services (except public administration),104.099998474121
+2024-02,Alberta,Public administration,122.699996948242
+2024-02,British Columbia,"Total employed, all industries",2841.19995117188
+2024-02,British Columbia,Agriculture,17.6000003814697
+2024-02,British Columbia,"Forestry, fishing, mining, quarrying, oil and gas",51.7999992370605
+2024-02,British Columbia,Utilities,14.6999998092651
+2024-02,British Columbia,Construction,230.300003051758
+2024-02,British Columbia,Manufacturing,170.899993896484
+2024-02,British Columbia,Wholesale and retail trade,426.799987792969
+2024-02,British Columbia,Transportation and warehousing,151.800003051758
+2024-02,British Columbia,"Finance, insurance, real estate, rental and leasing",180
+2024-02,British Columbia,"Professional, scientific and technical services",287.799987792969
+2024-02,British Columbia,"Business, building and other support services",93
+2024-02,British Columbia,Educational services,220
+2024-02,British Columbia,Health care and social assistance,399.299987792969
+2024-02,British Columbia,"Information, culture and recreation",147.100006103516
+2024-02,British Columbia,Accommodation and food services,179.699996948242
+2024-02,British Columbia,Other services (except public administration),120.199996948242
+2024-02,British Columbia,Public administration,150.399993896484
+2024-03,Canada,"Total employed, all industries",20400.69921875
+2024-03,Canada,Agriculture,226.5
+2024-03,Canada,"Forestry, fishing, mining, quarrying, oil and gas",338.100006103516
+2024-03,Canada,Utilities,159.399993896484
+2024-03,Canada,Construction,1600.90002441406
+2024-03,Canada,Manufacturing,1803.5
+2024-03,Canada,Wholesale and retail trade,2923.5
+2024-03,Canada,Transportation and warehousing,1081.59997558594
+2024-03,Canada,"Finance, insurance, real estate, rental and leasing",1405.5
+2024-03,Canada,"Professional, scientific and technical services",1920.80004882813
+2024-03,Canada,"Business, building and other support services",678.799987792969
+2024-03,Canada,Educational services,1538.09997558594
+2024-03,Canada,Health care and social assistance,2761.5
+2024-03,Canada,"Information, culture and recreation",842.400024414063
+2024-03,Canada,Accommodation and food services,1104.09997558594
+2024-03,Canada,Other services (except public administration),797.599975585938
+2024-03,Canada,Public administration,1218.40002441406
+2024-03,Newfoundland and Labrador,"Total employed, all industries",243.699996948242
+2024-03,Newfoundland and Labrador,Agriculture,1
+2024-03,Newfoundland and Labrador,"Forestry, fishing, mining, quarrying, oil and gas",17.8999996185303
+2024-03,Newfoundland and Labrador,Utilities,2.09999990463257
+2024-03,Newfoundland and Labrador,Construction,20.3999996185303
+2024-03,Newfoundland and Labrador,Manufacturing,9.19999980926514
+2024-03,Newfoundland and Labrador,Wholesale and retail trade,38.5999984741211
+2024-03,Newfoundland and Labrador,Transportation and warehousing,12.3999996185303
+2024-03,Newfoundland and Labrador,"Finance, insurance, real estate, rental and leasing",8
+2024-03,Newfoundland and Labrador,"Professional, scientific and technical services",12.3999996185303
+2024-03,Newfoundland and Labrador,"Business, building and other support services",6.59999990463257
+2024-03,Newfoundland and Labrador,Educational services,19.2999992370605
+2024-03,Newfoundland and Labrador,Health care and social assistance,45.0999984741211
+2024-03,Newfoundland and Labrador,"Information, culture and recreation",7.09999990463257
+2024-03,Newfoundland and Labrador,Accommodation and food services,14
+2024-03,Newfoundland and Labrador,Other services (except public administration),8.30000019073486
+2024-03,Newfoundland and Labrador,Public administration,21.2999992370605
+2024-03,Prince Edward Island,"Total employed, all industries",91.9000015258789
+2024-03,Prince Edward Island,Agriculture,3.90000009536743
+2024-03,Prince Edward Island,"Forestry, fishing, mining, quarrying, oil and gas",1.60000002384186
+2024-03,Prince Edward Island,Utilities,0.400000005960464
+2024-03,Prince Edward Island,Construction,7.69999980926514
+2024-03,Prince Edward Island,Manufacturing,8
+2024-03,Prince Edward Island,Wholesale and retail trade,9.80000019073486
+2024-03,Prince Edward Island,Transportation and warehousing,3.70000004768372
+2024-03,Prince Edward Island,"Finance, insurance, real estate, rental and leasing",4.09999990463257
+2024-03,Prince Edward Island,"Professional, scientific and technical services",5.09999990463257
+2024-03,Prince Edward Island,"Business, building and other support services",2.40000009536743
+2024-03,Prince Edward Island,Educational services,6.69999980926514
+2024-03,Prince Edward Island,Health care and social assistance,14.1999998092651
+2024-03,Prince Edward Island,"Information, culture and recreation",3.59999990463257
+2024-03,Prince Edward Island,Accommodation and food services,6.5
+2024-03,Prince Edward Island,Other services (except public administration),3.79999995231628
+2024-03,Prince Edward Island,Public administration,10.5
+2024-03,Nova Scotia,"Total employed, all industries",516.400024414063
+2024-03,Nova Scotia,Agriculture,4.30000019073486
+2024-03,Nova Scotia,"Forestry, fishing, mining, quarrying, oil and gas",8.5
+2024-03,Nova Scotia,Utilities,3.90000009536743
+2024-03,Nova Scotia,Construction,39.5
+2024-03,Nova Scotia,Manufacturing,36.7999992370605
+2024-03,Nova Scotia,Wholesale and retail trade,82.1999969482422
+2024-03,Nova Scotia,Transportation and warehousing,21.7000007629395
+2024-03,Nova Scotia,"Finance, insurance, real estate, rental and leasing",31.2999992370605
+2024-03,Nova Scotia,"Professional, scientific and technical services",36.5999984741211
+2024-03,Nova Scotia,"Business, building and other support services",17.2999992370605
+2024-03,Nova Scotia,Educational services,42.2000007629395
+2024-03,Nova Scotia,Health care and social assistance,80.3000030517578
+2024-03,Nova Scotia,"Information, culture and recreation",19.7000007629395
+2024-03,Nova Scotia,Accommodation and food services,32.9000015258789
+2024-03,Nova Scotia,Other services (except public administration),22.5
+2024-03,Nova Scotia,Public administration,36.5
+2024-03,New Brunswick,"Total employed, all industries",390.899993896484
+2024-03,New Brunswick,Agriculture,4.90000009536743
+2024-03,New Brunswick,"Forestry, fishing, mining, quarrying, oil and gas",7.30000019073486
+2024-03,New Brunswick,Utilities,5.30000019073486
+2024-03,New Brunswick,Construction,35
+2024-03,New Brunswick,Manufacturing,27.2000007629395
+2024-03,New Brunswick,Wholesale and retail trade,56.4000015258789
+2024-03,New Brunswick,Transportation and warehousing,20.3999996185303
+2024-03,New Brunswick,"Finance, insurance, real estate, rental and leasing",20.1000003814697
+2024-03,New Brunswick,"Professional, scientific and technical services",24.3999996185303
+2024-03,New Brunswick,"Business, building and other support services",12.1999998092651
+2024-03,New Brunswick,Educational services,29.7000007629395
+2024-03,New Brunswick,Health care and social assistance,61.7000007629395
+2024-03,New Brunswick,"Information, culture and recreation",13.5
+2024-03,New Brunswick,Accommodation and food services,21.1000003814697
+2024-03,New Brunswick,Other services (except public administration),15.8999996185303
+2024-03,New Brunswick,Public administration,35.7999992370605
+2024-03,Quebec,"Total employed, all industries",4515.2001953125
+2024-03,Quebec,Agriculture,47.5
+2024-03,Quebec,"Forestry, fishing, mining, quarrying, oil and gas",39.5999984741211
+2024-03,Quebec,Utilities,33.7000007629395
+2024-03,Quebec,Construction,321
+2024-03,Quebec,Manufacturing,481.899993896484
+2024-03,Quebec,Wholesale and retail trade,658.5
+2024-03,Quebec,Transportation and warehousing,222.899993896484
+2024-03,Quebec,"Finance, insurance, real estate, rental and leasing",271.5
+2024-03,Quebec,"Professional, scientific and technical services",384.899993896484
+2024-03,Quebec,"Business, building and other support services",155.5
+2024-03,Quebec,Educational services,354.600006103516
+2024-03,Quebec,Health care and social assistance,626.099975585938
+2024-03,Quebec,"Information, culture and recreation",194.399993896484
+2024-03,Quebec,Accommodation and food services,242.399993896484
+2024-03,Quebec,Other services (except public administration),184.5
+2024-03,Quebec,Public administration,296
+2024-03,Ontario,"Total employed, all industries",7970.5
+2024-03,Ontario,Agriculture,71.9000015258789
+2024-03,Ontario,"Forestry, fishing, mining, quarrying, oil and gas",38.0999984741211
+2024-03,Ontario,Utilities,59.4000015258789
+2024-03,Ontario,Construction,595.799987792969
+2024-03,Ontario,Manufacturing,814.700012207031
+2024-03,Ontario,Wholesale and retail trade,1091.09997558594
+2024-03,Ontario,Transportation and warehousing,421.5
+2024-03,Ontario,"Finance, insurance, real estate, rental and leasing",679.200012207031
+2024-03,Ontario,"Professional, scientific and technical services",865.900024414063
+2024-03,Ontario,"Business, building and other support services",275.5
+2024-03,Ontario,Educational services,590.900024414063
+2024-03,Ontario,Health care and social assistance,984.599975585938
+2024-03,Ontario,"Information, culture and recreation",329.700012207031
+2024-03,Ontario,Accommodation and food services,409.600006103516
+2024-03,Ontario,Other services (except public administration),280.600006103516
+2024-03,Ontario,Public administration,461.899993896484
+2024-03,Manitoba,"Total employed, all industries",700.400024414063
+2024-03,Manitoba,Agriculture,12.3999996185303
+2024-03,Manitoba,"Forestry, fishing, mining, quarrying, oil and gas",4.69999980926514
+2024-03,Manitoba,Utilities,6.09999990463257
+2024-03,Manitoba,Construction,57.2999992370605
+2024-03,Manitoba,Manufacturing,70.4000015258789
+2024-03,Manitoba,Wholesale and retail trade,98.1999969482422
+2024-03,Manitoba,Transportation and warehousing,48.9000015258789
+2024-03,Manitoba,"Finance, insurance, real estate, rental and leasing",45.2000007629395
+2024-03,Manitoba,"Professional, scientific and technical services",35.2000007629395
+2024-03,Manitoba,"Business, building and other support services",16.7999992370605
+2024-03,Manitoba,Educational services,62
+2024-03,Manitoba,Health care and social assistance,112.300003051758
+2024-03,Manitoba,"Information, culture and recreation",25.3999996185303
+2024-03,Manitoba,Accommodation and food services,31.7999992370605
+2024-03,Manitoba,Other services (except public administration),28.1000003814697
+2024-03,Manitoba,Public administration,45.7000007629395
+2024-03,Saskatchewan,"Total employed, all industries",597.099975585938
+2024-03,Saskatchewan,Agriculture,23.1000003814697
+2024-03,Saskatchewan,"Forestry, fishing, mining, quarrying, oil and gas",21.1000003814697
+2024-03,Saskatchewan,Utilities,6.59999990463257
+2024-03,Saskatchewan,Construction,39.7999992370605
+2024-03,Saskatchewan,Manufacturing,32.9000015258789
+2024-03,Saskatchewan,Wholesale and retail trade,100.099998474121
+2024-03,Saskatchewan,Transportation and warehousing,29.7999992370605
+2024-03,Saskatchewan,"Finance, insurance, real estate, rental and leasing",28.3999996185303
+2024-03,Saskatchewan,"Professional, scientific and technical services",37.9000015258789
+2024-03,Saskatchewan,"Business, building and other support services",16.6000003814697
+2024-03,Saskatchewan,Educational services,53.0999984741211
+2024-03,Saskatchewan,Health care and social assistance,92.1999969482422
+2024-03,Saskatchewan,"Information, culture and recreation",22
+2024-03,Saskatchewan,Accommodation and food services,31.8999996185303
+2024-03,Saskatchewan,Other services (except public administration),26.3999996185303
+2024-03,Saskatchewan,Public administration,35.2999992370605
+2024-03,Alberta,"Total employed, all industries",2526.89990234375
+2024-03,Alberta,Agriculture,39.9000015258789
+2024-03,Alberta,"Forestry, fishing, mining, quarrying, oil and gas",146.399993896484
+2024-03,Alberta,Utilities,24.7999992370605
+2024-03,Alberta,Construction,253.300003051758
+2024-03,Alberta,Manufacturing,148
+2024-03,Alberta,Wholesale and retail trade,357.100006103516
+2024-03,Alberta,Transportation and warehousing,152.199996948242
+2024-03,Alberta,"Finance, insurance, real estate, rental and leasing",132.100006103516
+2024-03,Alberta,"Professional, scientific and technical services",234.399993896484
+2024-03,Alberta,"Business, building and other support services",84.5
+2024-03,Alberta,Educational services,162.800003051758
+2024-03,Alberta,Health care and social assistance,335.5
+2024-03,Alberta,"Information, culture and recreation",85.5999984741211
+2024-03,Alberta,Accommodation and food services,139.399993896484
+2024-03,Alberta,Other services (except public administration),107
+2024-03,Alberta,Public administration,123.900001525879
+2024-03,British Columbia,"Total employed, all industries",2847.80004882813
+2024-03,British Columbia,Agriculture,17.6000003814697
+2024-03,British Columbia,"Forestry, fishing, mining, quarrying, oil and gas",52.9000015258789
+2024-03,British Columbia,Utilities,17.2000007629395
+2024-03,British Columbia,Construction,231.100006103516
+2024-03,British Columbia,Manufacturing,174.399993896484
+2024-03,British Columbia,Wholesale and retail trade,431.5
+2024-03,British Columbia,Transportation and warehousing,148.100006103516
+2024-03,British Columbia,"Finance, insurance, real estate, rental and leasing",185.800003051758
+2024-03,British Columbia,"Professional, scientific and technical services",284
+2024-03,British Columbia,"Business, building and other support services",91.5
+2024-03,British Columbia,Educational services,216.699996948242
+2024-03,British Columbia,Health care and social assistance,409.600006103516
+2024-03,British Columbia,"Information, culture and recreation",141.300003051758
+2024-03,British Columbia,Accommodation and food services,174.5
+2024-03,British Columbia,Other services (except public administration),120.400001525879
+2024-03,British Columbia,Public administration,151.199996948242
+2024-04,Canada,"Total employed, all industries",20491.099609375
+2024-04,Canada,Agriculture,221.100006103516
+2024-04,Canada,"Forestry, fishing, mining, quarrying, oil and gas",345.799987792969
+2024-04,Canada,Utilities,154.399993896484
+2024-04,Canada,Construction,1589.80004882813
+2024-04,Canada,Manufacturing,1806.90002441406
+2024-04,Canada,Wholesale and retail trade,2929.60009765625
+2024-04,Canada,Transportation and warehousing,1088.30004882813
+2024-04,Canada,"Finance, insurance, real estate, rental and leasing",1405.09997558594
+2024-04,Canada,"Professional, scientific and technical services",1946.30004882813
+2024-04,Canada,"Business, building and other support services",688.299987792969
+2024-04,Canada,Educational services,1533.59997558594
+2024-04,Canada,Health care and social assistance,2778.89990234375
+2024-04,Canada,"Information, culture and recreation",852.299987792969
+2024-04,Canada,Accommodation and food services,1128.30004882813
+2024-04,Canada,Other services (except public administration),804.099975585938
+2024-04,Canada,Public administration,1218.30004882813
+2024-04,Newfoundland and Labrador,"Total employed, all industries",244.100006103516
+2024-04,Newfoundland and Labrador,Agriculture,1
+2024-04,Newfoundland and Labrador,"Forestry, fishing, mining, quarrying, oil and gas",17.2999992370605
+2024-04,Newfoundland and Labrador,Utilities,2
+2024-04,Newfoundland and Labrador,Construction,20.5
+2024-04,Newfoundland and Labrador,Manufacturing,8.80000019073486
+2024-04,Newfoundland and Labrador,Wholesale and retail trade,37.5999984741211
+2024-04,Newfoundland and Labrador,Transportation and warehousing,12.3999996185303
+2024-04,Newfoundland and Labrador,"Finance, insurance, real estate, rental and leasing",7.69999980926514
+2024-04,Newfoundland and Labrador,"Professional, scientific and technical services",11.8999996185303
+2024-04,Newfoundland and Labrador,"Business, building and other support services",6.40000009536743
+2024-04,Newfoundland and Labrador,Educational services,20.1000003814697
+2024-04,Newfoundland and Labrador,Health care and social assistance,47.0999984741211
+2024-04,Newfoundland and Labrador,"Information, culture and recreation",6.90000009536743
+2024-04,Newfoundland and Labrador,Accommodation and food services,15.1999998092651
+2024-04,Newfoundland and Labrador,Other services (except public administration),8
+2024-04,Newfoundland and Labrador,Public administration,21.2999992370605
+2024-04,Prince Edward Island,"Total employed, all industries",92.5999984741211
+2024-04,Prince Edward Island,Agriculture,4
+2024-04,Prince Edward Island,"Forestry, fishing, mining, quarrying, oil and gas",2.40000009536743
+2024-04,Prince Edward Island,Utilities,0.400000005960464
+2024-04,Prince Edward Island,Construction,8
+2024-04,Prince Edward Island,Manufacturing,7.90000009536743
+2024-04,Prince Edward Island,Wholesale and retail trade,10.8999996185303
+2024-04,Prince Edward Island,Transportation and warehousing,3.59999990463257
+2024-04,Prince Edward Island,"Finance, insurance, real estate, rental and leasing",4
+2024-04,Prince Edward Island,"Professional, scientific and technical services",5.09999990463257
+2024-04,Prince Edward Island,"Business, building and other support services",2.09999990463257
+2024-04,Prince Edward Island,Educational services,6.90000009536743
+2024-04,Prince Edward Island,Health care and social assistance,14.3000001907349
+2024-04,Prince Edward Island,"Information, culture and recreation",3.20000004768372
+2024-04,Prince Edward Island,Accommodation and food services,5.90000009536743
+2024-04,Prince Edward Island,Other services (except public administration),3.09999990463257
+2024-04,Prince Edward Island,Public administration,10.8000001907349
+2024-04,Nova Scotia,"Total employed, all industries",515.5
+2024-04,Nova Scotia,Agriculture,3.90000009536743
+2024-04,Nova Scotia,"Forestry, fishing, mining, quarrying, oil and gas",10.1999998092651
+2024-04,Nova Scotia,Utilities,3.79999995231628
+2024-04,Nova Scotia,Construction,40.2000007629395
+2024-04,Nova Scotia,Manufacturing,37.5
+2024-04,Nova Scotia,Wholesale and retail trade,80.8000030517578
+2024-04,Nova Scotia,Transportation and warehousing,21.7000007629395
+2024-04,Nova Scotia,"Finance, insurance, real estate, rental and leasing",30.7999992370605
+2024-04,Nova Scotia,"Professional, scientific and technical services",36.9000015258789
+2024-04,Nova Scotia,"Business, building and other support services",15.8999996185303
+2024-04,Nova Scotia,Educational services,42.2999992370605
+2024-04,Nova Scotia,Health care and social assistance,80.1999969482422
+2024-04,Nova Scotia,"Information, culture and recreation",19.5
+2024-04,Nova Scotia,Accommodation and food services,33.9000015258789
+2024-04,Nova Scotia,Other services (except public administration),22.2000007629395
+2024-04,Nova Scotia,Public administration,35.7999992370605
+2024-04,New Brunswick,"Total employed, all industries",398.700012207031
+2024-04,New Brunswick,Agriculture,5.40000009536743
+2024-04,New Brunswick,"Forestry, fishing, mining, quarrying, oil and gas",8.19999980926514
+2024-04,New Brunswick,Utilities,5.30000019073486
+2024-04,New Brunswick,Construction,36.0999984741211
+2024-04,New Brunswick,Manufacturing,27.7000007629395
+2024-04,New Brunswick,Wholesale and retail trade,57.2999992370605
+2024-04,New Brunswick,Transportation and warehousing,21.2000007629395
+2024-04,New Brunswick,"Finance, insurance, real estate, rental and leasing",21
+2024-04,New Brunswick,"Professional, scientific and technical services",23.7000007629395
+2024-04,New Brunswick,"Business, building and other support services",12.6999998092651
+2024-04,New Brunswick,Educational services,30.1000003814697
+2024-04,New Brunswick,Health care and social assistance,62.0999984741211
+2024-04,New Brunswick,"Information, culture and recreation",12.8000001907349
+2024-04,New Brunswick,Accommodation and food services,21.5
+2024-04,New Brunswick,Other services (except public administration),16.8999996185303
+2024-04,New Brunswick,Public administration,36.9000015258789
+2024-04,Quebec,"Total employed, all industries",4534.39990234375
+2024-04,Quebec,Agriculture,46.7000007629395
+2024-04,Quebec,"Forestry, fishing, mining, quarrying, oil and gas",38.2000007629395
+2024-04,Quebec,Utilities,32.0999984741211
+2024-04,Quebec,Construction,323
+2024-04,Quebec,Manufacturing,482.299987792969
+2024-04,Quebec,Wholesale and retail trade,667
+2024-04,Quebec,Transportation and warehousing,223.300003051758
+2024-04,Quebec,"Finance, insurance, real estate, rental and leasing",270
+2024-04,Quebec,"Professional, scientific and technical services",386.700012207031
+2024-04,Quebec,"Business, building and other support services",164
+2024-04,Quebec,Educational services,345.299987792969
+2024-04,Quebec,Health care and social assistance,641.099975585938
+2024-04,Quebec,"Information, culture and recreation",192.899993896484
+2024-04,Quebec,Accommodation and food services,249.199996948242
+2024-04,Quebec,Other services (except public administration),181.100006103516
+2024-04,Quebec,Public administration,291.399993896484
+2024-04,Ontario,"Total employed, all industries",7995.5
+2024-04,Ontario,Agriculture,69.6999969482422
+2024-04,Ontario,"Forestry, fishing, mining, quarrying, oil and gas",38
+2024-04,Ontario,Utilities,57
+2024-04,Ontario,Construction,576.200012207031
+2024-04,Ontario,Manufacturing,820.5
+2024-04,Ontario,Wholesale and retail trade,1102.19995117188
+2024-04,Ontario,Transportation and warehousing,425.100006103516
+2024-04,Ontario,"Finance, insurance, real estate, rental and leasing",681.200012207031
+2024-04,Ontario,"Professional, scientific and technical services",881.099975585938
+2024-04,Ontario,"Business, building and other support services",281.200012207031
+2024-04,Ontario,Educational services,588.5
+2024-04,Ontario,Health care and social assistance,989
+2024-04,Ontario,"Information, culture and recreation",314.600006103516
+2024-04,Ontario,Accommodation and food services,416.299987792969
+2024-04,Ontario,Other services (except public administration),289.799987792969
+2024-04,Ontario,Public administration,465
+2024-04,Manitoba,"Total employed, all industries",703.299987792969
+2024-04,Manitoba,Agriculture,13
+2024-04,Manitoba,"Forestry, fishing, mining, quarrying, oil and gas",6
+2024-04,Manitoba,Utilities,6.40000009536743
+2024-04,Manitoba,Construction,56.2000007629395
+2024-04,Manitoba,Manufacturing,71.3000030517578
+2024-04,Manitoba,Wholesale and retail trade,98.5999984741211
+2024-04,Manitoba,Transportation and warehousing,46.7000007629395
+2024-04,Manitoba,"Finance, insurance, real estate, rental and leasing",46.5
+2024-04,Manitoba,"Professional, scientific and technical services",34.9000015258789
+2024-04,Manitoba,"Business, building and other support services",15.8999996185303
+2024-04,Manitoba,Educational services,61.7000007629395
+2024-04,Manitoba,Health care and social assistance,112.400001525879
+2024-04,Manitoba,"Information, culture and recreation",27.2999992370605
+2024-04,Manitoba,Accommodation and food services,33
+2024-04,Manitoba,Other services (except public administration),27.5
+2024-04,Manitoba,Public administration,45.9000015258789
+2024-04,Saskatchewan,"Total employed, all industries",598.200012207031
+2024-04,Saskatchewan,Agriculture,22
+2024-04,Saskatchewan,"Forestry, fishing, mining, quarrying, oil and gas",22.1000003814697
+2024-04,Saskatchewan,Utilities,5.5
+2024-04,Saskatchewan,Construction,41.2000007629395
+2024-04,Saskatchewan,Manufacturing,32.5999984741211
+2024-04,Saskatchewan,Wholesale and retail trade,99.6999969482422
+2024-04,Saskatchewan,Transportation and warehousing,29.8999996185303
+2024-04,Saskatchewan,"Finance, insurance, real estate, rental and leasing",28.7999992370605
+2024-04,Saskatchewan,"Professional, scientific and technical services",37.0999984741211
+2024-04,Saskatchewan,"Business, building and other support services",16.1000003814697
+2024-04,Saskatchewan,Educational services,54.5
+2024-04,Saskatchewan,Health care and social assistance,91.5
+2024-04,Saskatchewan,"Information, culture and recreation",22.2999992370605
+2024-04,Saskatchewan,Accommodation and food services,33.2999992370605
+2024-04,Saskatchewan,Other services (except public administration),25.7999992370605
+2024-04,Saskatchewan,Public administration,35.9000015258789
+2024-04,Alberta,"Total employed, all industries",2537.5
+2024-04,Alberta,Agriculture,37.7999992370605
+2024-04,Alberta,"Forestry, fishing, mining, quarrying, oil and gas",152.800003051758
+2024-04,Alberta,Utilities,24.8999996185303
+2024-04,Alberta,Construction,253.399993896484
+2024-04,Alberta,Manufacturing,149.300003051758
+2024-04,Alberta,Wholesale and retail trade,352.5
+2024-04,Alberta,Transportation and warehousing,152.5
+2024-04,Alberta,"Finance, insurance, real estate, rental and leasing",132.399993896484
+2024-04,Alberta,"Professional, scientific and technical services",239.100006103516
+2024-04,Alberta,"Business, building and other support services",84.6999969482422
+2024-04,Alberta,Educational services,163.199996948242
+2024-04,Alberta,Health care and social assistance,331.600006103516
+2024-04,Alberta,"Information, culture and recreation",88.0999984741211
+2024-04,Alberta,Accommodation and food services,139.800003051758
+2024-04,Alberta,Other services (except public administration),111.400001525879
+2024-04,Alberta,Public administration,124.199996948242
+2024-04,British Columbia,"Total employed, all industries",2871.19995117188
+2024-04,British Columbia,Agriculture,17.6000003814697
+2024-04,British Columbia,"Forestry, fishing, mining, quarrying, oil and gas",50.5999984741211
+2024-04,British Columbia,Utilities,17.1000003814697
+2024-04,British Columbia,Construction,234.899993896484
+2024-04,British Columbia,Manufacturing,168.800003051758
+2024-04,British Columbia,Wholesale and retail trade,423
+2024-04,British Columbia,Transportation and warehousing,152.100006103516
+2024-04,British Columbia,"Finance, insurance, real estate, rental and leasing",182.800003051758
+2024-04,British Columbia,"Professional, scientific and technical services",289.899993896484
+2024-04,British Columbia,"Business, building and other support services",89.3000030517578
+2024-04,British Columbia,Educational services,221.100006103516
+2024-04,British Columbia,Health care and social assistance,409.600006103516
+2024-04,British Columbia,"Information, culture and recreation",164.699996948242
+2024-04,British Columbia,Accommodation and food services,180.199996948242
+2024-04,British Columbia,Other services (except public administration),118.400001525879
+2024-04,British Columbia,Public administration,151.100006103516
+2024-05,Canada,"Total employed, all industries",20517.80078125
+2024-05,Canada,Agriculture,224.300003051758
+2024-05,Canada,"Forestry, fishing, mining, quarrying, oil and gas",348.799987792969
+2024-05,Canada,Utilities,149
+2024-05,Canada,Construction,1560.19995117188
+2024-05,Canada,Manufacturing,1815
+2024-05,Canada,Wholesale and retail trade,2923.30004882813
+2024-05,Canada,Transportation and warehousing,1067.69995117188
+2024-05,Canada,"Finance, insurance, real estate, rental and leasing",1433.90002441406
+2024-05,Canada,"Professional, scientific and technical services",1947.59997558594
+2024-05,Canada,"Business, building and other support services",707
+2024-05,Canada,Educational services,1521.5
+2024-05,Canada,Health care and social assistance,2808.80004882813
+2024-05,Canada,"Information, culture and recreation",841.5
+2024-05,Canada,Accommodation and food services,1141.19995117188
+2024-05,Canada,Other services (except public administration),806.299987792969
+2024-05,Canada,Public administration,1221.59997558594
+2024-05,Newfoundland and Labrador,"Total employed, all industries",242
+2024-05,Newfoundland and Labrador,Agriculture,1
+2024-05,Newfoundland and Labrador,"Forestry, fishing, mining, quarrying, oil and gas",16.5
+2024-05,Newfoundland and Labrador,Utilities,2
+2024-05,Newfoundland and Labrador,Construction,20
+2024-05,Newfoundland and Labrador,Manufacturing,11.1000003814697
+2024-05,Newfoundland and Labrador,Wholesale and retail trade,37.9000015258789
+2024-05,Newfoundland and Labrador,Transportation and warehousing,12.8000001907349
+2024-05,Newfoundland and Labrador,"Finance, insurance, real estate, rental and leasing",8.10000038146973
+2024-05,Newfoundland and Labrador,"Professional, scientific and technical services",11.6000003814697
+2024-05,Newfoundland and Labrador,"Business, building and other support services",6.19999980926514
+2024-05,Newfoundland and Labrador,Educational services,20.2999992370605
+2024-05,Newfoundland and Labrador,Health care and social assistance,46.4000015258789
+2024-05,Newfoundland and Labrador,"Information, culture and recreation",5.90000009536743
+2024-05,Newfoundland and Labrador,Accommodation and food services,13.1999998092651
+2024-05,Newfoundland and Labrador,Other services (except public administration),7.40000009536743
+2024-05,Newfoundland and Labrador,Public administration,21.6000003814697
+2024-05,Prince Edward Island,"Total employed, all industries",91.5
+2024-05,Prince Edward Island,Agriculture,4.09999990463257
+2024-05,Prince Edward Island,"Forestry, fishing, mining, quarrying, oil and gas",2.20000004768372
+2024-05,Prince Edward Island,Utilities,0.400000005960464
+2024-05,Prince Edward Island,Construction,8.30000019073486
+2024-05,Prince Edward Island,Manufacturing,7.19999980926514
+2024-05,Prince Edward Island,Wholesale and retail trade,11.5
+2024-05,Prince Edward Island,Transportation and warehousing,3.20000004768372
+2024-05,Prince Edward Island,"Finance, insurance, real estate, rental and leasing",3.70000004768372
+2024-05,Prince Edward Island,"Professional, scientific and technical services",5
+2024-05,Prince Edward Island,"Business, building and other support services",2.5
+2024-05,Prince Edward Island,Educational services,6.80000019073486
+2024-05,Prince Edward Island,Health care and social assistance,13.3000001907349
+2024-05,Prince Edward Island,"Information, culture and recreation",3.40000009536743
+2024-05,Prince Edward Island,Accommodation and food services,5.90000009536743
+2024-05,Prince Edward Island,Other services (except public administration),3.59999990463257
+2024-05,Prince Edward Island,Public administration,10.3000001907349
+2024-05,Nova Scotia,"Total employed, all industries",514.599975585938
+2024-05,Nova Scotia,Agriculture,3.40000009536743
+2024-05,Nova Scotia,"Forestry, fishing, mining, quarrying, oil and gas",10.5
+2024-05,Nova Scotia,Utilities,4.09999990463257
+2024-05,Nova Scotia,Construction,40
+2024-05,Nova Scotia,Manufacturing,34.0999984741211
+2024-05,Nova Scotia,Wholesale and retail trade,80.8000030517578
+2024-05,Nova Scotia,Transportation and warehousing,22.8999996185303
+2024-05,Nova Scotia,"Finance, insurance, real estate, rental and leasing",30.8999996185303
+2024-05,Nova Scotia,"Professional, scientific and technical services",37
+2024-05,Nova Scotia,"Business, building and other support services",15.6000003814697
+2024-05,Nova Scotia,Educational services,43.0999984741211
+2024-05,Nova Scotia,Health care and social assistance,78.9000015258789
+2024-05,Nova Scotia,"Information, culture and recreation",18.8999996185303
+2024-05,Nova Scotia,Accommodation and food services,33
+2024-05,Nova Scotia,Other services (except public administration),23.1000003814697
+2024-05,Nova Scotia,Public administration,38.7000007629395
+2024-05,New Brunswick,"Total employed, all industries",397.399993896484
+2024-05,New Brunswick,Agriculture,5.90000009536743
+2024-05,New Brunswick,"Forestry, fishing, mining, quarrying, oil and gas",8.19999980926514
+2024-05,New Brunswick,Utilities,5.30000019073486
+2024-05,New Brunswick,Construction,32.5
+2024-05,New Brunswick,Manufacturing,26.8999996185303
+2024-05,New Brunswick,Wholesale and retail trade,55.2999992370605
+2024-05,New Brunswick,Transportation and warehousing,22
+2024-05,New Brunswick,"Finance, insurance, real estate, rental and leasing",20.8999996185303
+2024-05,New Brunswick,"Professional, scientific and technical services",25.2999992370605
+2024-05,New Brunswick,"Business, building and other support services",13.1000003814697
+2024-05,New Brunswick,Educational services,30.5
+2024-05,New Brunswick,Health care and social assistance,62
+2024-05,New Brunswick,"Information, culture and recreation",12.1999998092651
+2024-05,New Brunswick,Accommodation and food services,22.8999996185303
+2024-05,New Brunswick,Other services (except public administration),17.1000003814697
+2024-05,New Brunswick,Public administration,37.0999984741211
+2024-05,Quebec,"Total employed, all industries",4532.2998046875
+2024-05,Quebec,Agriculture,51.2000007629395
+2024-05,Quebec,"Forestry, fishing, mining, quarrying, oil and gas",37.9000015258789
+2024-05,Quebec,Utilities,30.5
+2024-05,Quebec,Construction,322.899993896484
+2024-05,Quebec,Manufacturing,490.799987792969
+2024-05,Quebec,Wholesale and retail trade,656.900024414063
+2024-05,Quebec,Transportation and warehousing,217.600006103516
+2024-05,Quebec,"Finance, insurance, real estate, rental and leasing",273.799987792969
+2024-05,Quebec,"Professional, scientific and technical services",371.799987792969
+2024-05,Quebec,"Business, building and other support services",169.199996948242
+2024-05,Quebec,Educational services,347.700012207031
+2024-05,Quebec,Health care and social assistance,655.099975585938
+2024-05,Quebec,"Information, culture and recreation",187.600006103516
+2024-05,Quebec,Accommodation and food services,251.899993896484
+2024-05,Quebec,Other services (except public administration),180.199996948242
+2024-05,Quebec,Public administration,287.200012207031
+2024-05,Ontario,"Total employed, all industries",8045
+2024-05,Ontario,Agriculture,71.5999984741211
+2024-05,Ontario,"Forestry, fishing, mining, quarrying, oil and gas",37.7999992370605
+2024-05,Ontario,Utilities,57.4000015258789
+2024-05,Ontario,Construction,574.299987792969
+2024-05,Ontario,Manufacturing,806.299987792969
+2024-05,Ontario,Wholesale and retail trade,1118
+2024-05,Ontario,Transportation and warehousing,407.600006103516
+2024-05,Ontario,"Finance, insurance, real estate, rental and leasing",701.299987792969
+2024-05,Ontario,"Professional, scientific and technical services",888.299987792969
+2024-05,Ontario,"Business, building and other support services",288.100006103516
+2024-05,Ontario,Educational services,579.799987792969
+2024-05,Ontario,Health care and social assistance,1013
+2024-05,Ontario,"Information, culture and recreation",326.399993896484
+2024-05,Ontario,Accommodation and food services,419.299987792969
+2024-05,Ontario,Other services (except public administration),291.399993896484
+2024-05,Ontario,Public administration,464.299987792969
+2024-05,Manitoba,"Total employed, all industries",711.099975585938
+2024-05,Manitoba,Agriculture,12.6000003814697
+2024-05,Manitoba,"Forestry, fishing, mining, quarrying, oil and gas",6.30000019073486
+2024-05,Manitoba,Utilities,6.09999990463257
+2024-05,Manitoba,Construction,54
+2024-05,Manitoba,Manufacturing,71.5999984741211
+2024-05,Manitoba,Wholesale and retail trade,100.599998474121
+2024-05,Manitoba,Transportation and warehousing,48.7999992370605
+2024-05,Manitoba,"Finance, insurance, real estate, rental and leasing",46.9000015258789
+2024-05,Manitoba,"Professional, scientific and technical services",35.7000007629395
+2024-05,Manitoba,"Business, building and other support services",18.8999996185303
+2024-05,Manitoba,Educational services,62.7000007629395
+2024-05,Manitoba,Health care and social assistance,112.699996948242
+2024-05,Manitoba,"Information, culture and recreation",27
+2024-05,Manitoba,Accommodation and food services,32.7999992370605
+2024-05,Manitoba,Other services (except public administration),29.7000007629395
+2024-05,Manitoba,Public administration,44.7000007629395
+2024-05,Saskatchewan,"Total employed, all industries",603.599975585938
+2024-05,Saskatchewan,Agriculture,24.7000007629395
+2024-05,Saskatchewan,"Forestry, fishing, mining, quarrying, oil and gas",23.1000003814697
+2024-05,Saskatchewan,Utilities,5.80000019073486
+2024-05,Saskatchewan,Construction,42.7000007629395
+2024-05,Saskatchewan,Manufacturing,32.7999992370605
+2024-05,Saskatchewan,Wholesale and retail trade,100.699996948242
+2024-05,Saskatchewan,Transportation and warehousing,28.2000007629395
+2024-05,Saskatchewan,"Finance, insurance, real estate, rental and leasing",29.2999992370605
+2024-05,Saskatchewan,"Professional, scientific and technical services",38.4000015258789
+2024-05,Saskatchewan,"Business, building and other support services",14.5
+2024-05,Saskatchewan,Educational services,52.5999984741211
+2024-05,Saskatchewan,Health care and social assistance,90.6999969482422
+2024-05,Saskatchewan,"Information, culture and recreation",23.1000003814697
+2024-05,Saskatchewan,Accommodation and food services,33.7000007629395
+2024-05,Saskatchewan,Other services (except public administration),26.2999992370605
+2024-05,Saskatchewan,Public administration,37
+2024-05,Alberta,"Total employed, all industries",2517.10009765625
+2024-05,Alberta,Agriculture,32.2999992370605
+2024-05,Alberta,"Forestry, fishing, mining, quarrying, oil and gas",154.399993896484
+2024-05,Alberta,Utilities,20.5
+2024-05,Alberta,Construction,233.100006103516
+2024-05,Alberta,Manufacturing,157.600006103516
+2024-05,Alberta,Wholesale and retail trade,345.399993896484
+2024-05,Alberta,Transportation and warehousing,154.199996948242
+2024-05,Alberta,"Finance, insurance, real estate, rental and leasing",129
+2024-05,Alberta,"Professional, scientific and technical services",237.800003051758
+2024-05,Alberta,"Business, building and other support services",86.6999969482422
+2024-05,Alberta,Educational services,162.600006103516
+2024-05,Alberta,Health care and social assistance,326.299987792969
+2024-05,Alberta,"Information, culture and recreation",89.8000030517578
+2024-05,Alberta,Accommodation and food services,147.800003051758
+2024-05,Alberta,Other services (except public administration),112.5
+2024-05,Alberta,Public administration,127.300003051758
+2024-05,British Columbia,"Total employed, all industries",2863.30004882813
+2024-05,British Columbia,Agriculture,17.6000003814697
+2024-05,British Columbia,"Forestry, fishing, mining, quarrying, oil and gas",51.7999992370605
+2024-05,British Columbia,Utilities,16.7999992370605
+2024-05,British Columbia,Construction,232.5
+2024-05,British Columbia,Manufacturing,176.600006103516
+2024-05,British Columbia,Wholesale and retail trade,416.200012207031
+2024-05,British Columbia,Transportation and warehousing,150.5
+2024-05,British Columbia,"Finance, insurance, real estate, rental and leasing",190
+2024-05,British Columbia,"Professional, scientific and technical services",296.600006103516
+2024-05,British Columbia,"Business, building and other support services",92.3000030517578
+2024-05,British Columbia,Educational services,215.399993896484
+2024-05,British Columbia,Health care and social assistance,410.399993896484
+2024-05,British Columbia,"Information, culture and recreation",147.300003051758
+2024-05,British Columbia,Accommodation and food services,180.699996948242
+2024-05,British Columbia,Other services (except public administration),115
+2024-05,British Columbia,Public administration,153.5
